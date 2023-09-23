@@ -1,0 +1,1006 @@
+{
+  "content": [
+    {
+      "id": "00000000",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "Прихопи, будь ласка, туалетний папір.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Я зараз не можу розмовляти.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Мама",
+          "text": "Ти минулого разу забув і ми брали кросворди",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000001",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Я обожнюю мою нову стрижку!",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "круто)",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "Дякую. Я тебе завтра теж підстрижу.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "ок",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000002",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Що одягатимеш на весілля?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Не знаю. Мабуть, костюм і конверси.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "Костюм з кедами?!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Женя",
+          "text": "Ти найкрутіший чувак, якого я знаю.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000003",
+      "windowTitle": "Повідомлення від: Dee23",
+      "messages": [
+        {
+          "from": "Dee23",
+          "text": "Привіт, красунчику ;)",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Вітаю... ми знайомі?",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Dee23",
+          "text": "чекни мене на samotnidivchatageimery.biz",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "Пізніше загляну. Дякую за запрошення, пані!",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000004",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "ЛюсяЛюбитьВязати42",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Що ти робиш, мамо?",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Мама",
+          "text": "ЛюсяЛюбитьВязати42",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "Пароль НЕ сюди треба писати, мамо!",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000005",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "Зайдеш, як буде вільна хвилинка?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "я НЕ дивитимусь, чи є у тата кліщі.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Мама",
+          "text": "Просто допоможи мені зі стегнами!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000006",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Подивився те що я просив?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Так.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "Ну?!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "Він нас підтримав у інстаграмі. І музика поза політики.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000007",
+      "windowTitle": "Повідомлення до: Мама",
+      "messages": [
+        {
+          "from": "Коля",
+          "text": "Як пройшло вчора?",
+          "behavior": "send",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Мама",
+          "text": "Добре! Відпочивала на закупах.",
+          "behavior": "receive",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Багато чого купила?",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Мама",
+          "text": "Ні, але я виговорилась продавцям про твого батька.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000008",
+      "windowTitle": "Повідомлення до: Тато",
+      "messages": [
+        {
+          "from": "Коля",
+          "text": "Я чув, що ви купили новий матрац.",
+          "behavior": "send",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Тато",
+          "text": "Ага. КАПЕЦЬ як про це шкодую.",
+          "behavior": "receive",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Чому це?",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Тато",
+          "text": "Я пішов до магазину сонний і без грошей.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000009",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Ти завтра ввечері вільний?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Та ніби. А шо?",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "У мене завтра стендап-шоу!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "Ой, стоп… Маю справи. Багацько справ.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000010",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Вибач за привида учора на вечірці.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Та все ок.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Просто більше не ріж мої простирадла",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Женя",
+          "text": ":(",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000011",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Спрацювало?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Ні. Ані Darkweb.org, ані darkweb.gov. Нічого не робе.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "Як тоді нам до нього доступ отримати?!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "Біс його зна.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000012",
+      "windowTitle": "Повідомлення від: Тато",
+      "messages": [
+        {
+          "from": "Тато",
+          "text": "Привіт, синку.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Привіт, тату.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Тато",
+          "text": "Гарно побалакали.",
+          "behavior": "receive",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Тато",
+          "text": "Я побіг.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000013",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "Ти що, досі граєш у цю гру?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "То не просто \"гра\", мамо.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "ТО. МОЄ. ЖИТТЯ.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Мама",
+          "text": "Байдуже. Тільки туалетний папір не забудь купити.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000014",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Ти взагалі хоч колись граєш у якісь інші ігри?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Час від-часу",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Час-від-часу",
+          "behavior": "send",
+          "timeTilNextMessage": 2.0
+        },
+        {
+          "from": "Коля",
+          "text": "Іноді.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000015",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "Сподіваюся, в тебе все добре. З любов'ю, мама.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Дякую, мамо, але не треба своє ім'я дописувати.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Я ж знаю, що це ти мені пишеш.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Мама",
+          "text": "Ааа, зрозуміла. З любов'ю, мама.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000016",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "Я нарешті зрозуміла, як скидати смайлики!",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Мама",
+          "text": "&:X=:=",
+          "behavior": "receive",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Це не спрацювало.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Мама",
+          "text": "Щоб його! О, дійшло! &:X=:=",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000017",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "В тебе що, комп'ютер гакнули?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Ні. А що?",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Мама",
+          "text": "Я бачу, ти залишив гарний коментар на моїй стіні.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000018",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Ага, Колян іноді так збісити може.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Емм...",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "Ой ґґґґ жартую! Просто приколююся!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Женя",
+          "text": "І я точно не чатюсь зараз із Софою!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000019",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Йоу!",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Женя",
+          "text": "Гей!",
+          "behavior": "receive",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Що таке?",
+          "behavior": "send",
+          "timeTilNextMessage": 2.0
+        },
+        {
+          "from": "Женя",
+          "text": "нічо",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000020",
+      "windowTitle": "Повідомлення від: Тато",
+      "messages": [
+        {
+          "from": "Тато",
+          "text": "Я пишаюся тобою, синку.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "...мамо?",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Це ти?",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Тато",
+          "text": "Він, може, такого не скаже, та все ж він про це думає!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000021",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Юля мене питала, чи живеш ти у спортзалі!",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Та ти шо?!",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Походу, я непогано підкачався!",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Женя",
+          "text": "Вона запитувала, бо думала, що в тебе дому нема. :(",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000022",
+      "windowTitle": "Повідомлення до: Мама",
+      "messages": [
+        {
+          "from": "Коля",
+          "text": "Як там на базарі, щось продали?",
+          "behavior": "send",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Мама",
+          "text": "Звісно! Всі речі, які ти не поклав на місце.",
+          "behavior": "receive",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Що?!",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Мама",
+          "text": "Жартую! Тільки одяг і диски.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000023",
+      "windowTitle": "Повідомлення від Dee23",
+      "messages": [
+        {
+          "from": "Dee23",
+          "text": "які плани на потім? xxx-girls.biz",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "еее, привіт. планую трохи почитати Багряного",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Dee23",
+          "text": "звучить гаряче. я хочу усе про нього почути",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "ну, його везуть у Сибір, але він тікає в тайгу...",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000024",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Все в силі на сьогодні?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Я ж сказав, ні",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "Та ну!",
+          "behavior": "receive",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "Я не можу косплеїти Росса, якщо ти не будеш Рейчел",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000025",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "Я думала, ти в аварію попав.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Що? Ні, я весь час вдома був.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Мама",
+          "text": "А кому ж я тоді 10 000 грн щойно скинула?!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000026",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "Любий щоденнику, мені знову снився Антоніо.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Мамо, це не твій щоденник!",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Мама",
+          "text": "Він знайшов мене на кухні, мокрою від дощу.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000027",
+      "windowTitle": "Повідомлення від: Ліза",
+      "messages": [
+        {
+          "from": "Ліза",
+          "text": "Тепер затягніть гайковий ключ, і ваше ліжко готове.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Дякую! Я радий, що ваша компанія такими речами займається.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "І вибачте, що плакав, коли не міг знайти гайковий ключ.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Ліза",
+          "text": "Таке часто трапляється.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000028",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "Ти що, видалив Кенді краш з мого телефону?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "У неї більше ніхто не грає",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Мама",
+          "text": "Яка різниця?! Я її люблю!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000029",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Шо, в тебе теж сьогодні похмілля?",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Ага. Досі не можу відійти від минулого вечора, то був капець.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "Нащо ми бахнули стільки Живчика, а?!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000030",
+      "windowTitle": "Повідомлення від: Валєра",
+      "messages": [
+        {
+          "from": "Валєра",
+          "text": "Здоров був, Колясику!",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Привіт, дядьку Валєро",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Валєра",
+          "text": "Я ледь не написав ПРИКОЛЯСИК :)",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "...це ніколи не було смішно.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000031",
+      "windowTitle": "Повідомлення від: Dee23",
+      "messages": [
+        {
+          "from": "Dee23",
+          "text": "Привітики, красунчику! Як справи? Samotnidivchatageimery.biz",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Готую гаспачо.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Dee23",
+          "text": "Звучить гаряче!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "Та ні, це ж гаспачо. Воно холодне.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000032",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "У мене тут запитання щодо комп'ютера.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Вибач, я зайнятий. Можна пізніше?",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Мама",
+          "text": "Ну гаразд, сподіваюся, вогонь сам згасне.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000033",
+      "windowTitle": "Повідомлення від: Мама",
+      "messages": [
+        {
+          "from": "Мама",
+          "text": "Твій двоюрідний брат вже тут.",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Мама",
+          "text": "Коли приїдеш?",
+          "behavior": "receive",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Коля",
+          "text": "Після гри.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Мама",
+          "text": "Тільки швидше, будь ласка. Він мене лякає.",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    },
+    {
+      "id": "00000034",
+      "windowTitle": "Повідомлення від: Женя",
+      "messages": [
+        {
+          "from": "Женя",
+          "text": "Мені знову снився той сон...",
+          "behavior": "on",
+          "timeTilNextMessage": 0.5
+        },
+        {
+          "from": "Коля",
+          "text": "Ми нібито домовлялися не чіпати цю тему.",
+          "behavior": "send",
+          "timeTilNextMessage": 1.0
+        },
+        {
+          "from": "Женя",
+          "text": "Він же має щось означати!",
+          "behavior": "receive",
+          "timeTilNextMessage": 3.0
+        },
+        {
+          "from": "Коля",
+          "text": "Я пішов.",
+          "behavior": "send",
+          "timeTilNextMessage": 3.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "content": [
+    {
+      "id": "00000000",
+      "applicableThemes": [
+        "News"
+      ],
+      "responseText": "Нумо влаштуємо на нього полювання.",
+      "twistText": "Місцевий мешканець виграв у лотерею"
+    },
+    {
+      "id": "00000001",
+      "applicableThemes": [
+        "Video"
+      ],
+      "responseText": "Не дуже вражає, чесно кажучи.",
+      "twistText": "Миколка вчиться їздити на велосипеді!"
+    },
+    {
+      "id": "00000002",
+      "applicableThemes": [
+        "Store"
+      ],
+      "responseText": "Сидіти на ній не найзручніше.",
+      "twistText": "Ложка дерев'яна. Довжина - 45 см."
+    },
+    {
+      "id": "00000003",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "responseText": "Там є файний McDonalds.",
+      "twistText": "Я поїхав відпочивати у Рим!"
+    },
+    {
+      "id": "00000004",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "responseText": "Він завжди стоїть у мене щоранку.",
+      "twistText": "Bolt"
+    },
+    {
+      "id": "00000005",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "responseText": "Деякі речі краще не виносити напоказ.",
+      "twistText": "Профінансуйте мій фільм"
+    },
+    {
+      "id": "00000006",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "responseText": "Усе тут таке апетитне.",
+      "twistText": "Хімзавод"
+    },
+    {
+      "id": "00000007",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "responseText": "Він завжди поруч зі мною.",
+      "twistText": "Сатана"
+    },
+    {
+      "id": "00000008",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "responseText": "Вони мені огидні.",
+      "twistText": "Як ви ставитеся до обіймів?"
+    },
+    {
+      "id": "00000009",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Я зловив цю дивну собаку."
+    },
+    {
+      "id": "00000010",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "responseText": "Це мій улюблений подарунок.",
+      "twistText": "Воші"
+    },
+    {
+      "id": "00000011",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "responseText": "Аж дух захоплює!",
+      "twistText": "Задуха"
+    },
+    {
+      "id": "00000012",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "responseText": "Я налаштований скептично.",
+      "twistText": "Вона сказала \"так\"!"
+    },
+    {
+      "id": "00000013",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "responseText": "Радий це чути!",
+      "twistText": "Цей день просто жахливий."
+    },
+    {
+      "id": "00000014",
+      "applicableThemes": [
+        "Video"
+      ],
+      "responseText": "Забагато оголеності.",
+      "twistText": "Як грати на гітарі"
+    },
+    {
+      "id": "00000015",
+      "applicableThemes": [
+        "Video"
+      ],
+      "responseText": "Заздрісно!",
+      "twistText": "Панда народжує"
+    },
+    {
+      "id": "00000016",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "responseText": "Капець як лякає.",
+      "twistText": "опудало"
+    },
+    {
+      "id": "00000017",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "responseText": "А вона гаряча штучка!",
+      "twistText": "Жанна д'Арк"
+    },
+    {
+      "id": "00000018",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "responseText": "Я не підтримую крадіїв.",
+      "twistText": "Повернись Живим"
+    },
+    {
+      "id": "00000019",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "responseText": "Вони переоцінені.",
+      "twistText": "Мені потрібне нове серце"
+    },
+    {
+      "id": "00000020",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "responseText": "Наш продавець був ідіотом.",
+      "twistText": "Каса самообслуговування, Ашан"
+    },
+    {
+      "id": "00000021",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "responseText": "Там скрізь смерділо.",
+      "twistText": "Тернопіль"
+    },
+    {
+      "id": "00000022",
+      "applicableThemes": [
+        "Store"
+      ],
+      "responseText": "Мене не хвилює смак.",
+      "twistText": "Картонка з-під котячого корму"
+    },
+    {
+      "id": "00000023",
+      "applicableThemes": [
+        "Store"
+      ],
+      "responseText": "Надто плоский.",
+      "twistText": "Стіл"
+    },
+    {
+      "id": "00000024",
+      "applicableThemes": [
+        "News"
+      ],
+      "responseText": "І шо?",
+      "twistText": "Корегувальника ракет випустили під заставу"
+    },
+    {
+      "id": "00000025",
+      "applicableThemes": [
+        "News"
+      ],
+      "responseText": "Уряд вам бреше.",
+      "twistText": "18 лайфхаків з їжею"
+    },
+    {
+      "id": "00000026",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "responseText": "В туалеті",
+      "twistText": "Де ви найчастіше плачете?"
+    },
+    {
+      "id": "00000027",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "responseText": "Просто жахливо.",
+      "twistText": "Як справи на роботі?"
+    },
+    {
+      "id": "00000028",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Ми заручені!"
+    },
+    {
+      "id": "00000029",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Сніданок з моїм братаном!"
+    },
+    {
+      "id": "00000030",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Він поцупив мій гаманець."
+    },
+    {
+      "id": "00000031",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Подивіться, яке моє життя цікаве!"
+    },
+    {
+      "id": "00000032",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Це заслуговує на купу лайків!"
+    },
+    {
+      "id": "00000033",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Найсвіжіші суші в місті."
+    },
+    {
+      "id": "00000034",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Селфі!"
+    },
+    {
+      "id": "00000035",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Зума у VR просто дивовижна!"
+    },
+    {
+      "id": "00000036",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "responseText": "",
+      "twistText": "Життя у відпустці! #ЯТакийСамотній"
+    }
+  ]
+}

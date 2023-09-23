@@ -1,0 +1,1069 @@
+{
+  "episodeid": 1322,
+  "content": [
+    {
+      "decoys": [
+        {
+          "text": "У неї чудове почуття гумору.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46626,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свою улюблену колегу."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він стоїк і ставиться до нас справедливо.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46625,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свого начальника."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "В неї було кучеряве волосся та гарний голос.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46624,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свого першого романтичного партнера."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він трохи тиран на роботі.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46622,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свого заклятого ворога."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він вміє розважати та кльово сміється!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46619,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свого найкращого друга."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона турботлива жінка, яка завжди була поруч зі мною.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46616,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свою маму."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він чесний, працьовитий мужик.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46614,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свого батька."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона була вродливою, милою та кумедною.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46613,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свого улюбленого вчителя."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він був високим і лисим.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47249,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свого директора школи."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це добра бабуся.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47251,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свого сусіда."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Чудовий слухач, терплячий та рішучий.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47431,
+      "choices": [],
+      "prompt": {
+        "text": "Які властивості має кожен гідний лідер?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він приносить радість тисячам діток!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47432,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали Святого Миколая прибульцям?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він має бути мудрим і рішучим",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47437,
+      "choices": [],
+      "prompt": {
+        "text": "Які якості повинен мати політик?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Впевненим і чуйним",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47435,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть, яким має бути лікар."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Відповідальна і приходить вчасно",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47433,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть якості, які повинні бути у няні."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона чесна й уважно слухає",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47744,
+      "choices": [],
+      "prompt": {
+        "text": "Які якості ви хочете побачити в юриста?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона пахнула лавандою",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47740,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть останню особу, у яку ви були закохані."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Працьовитий і прямолінійний.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47745,
+      "choices": [],
+      "prompt": {
+        "text": "Які якості ви хочете побачити в автомеханіка?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Дуже говіркий та чудернацький",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47750,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть людину, яка стриже ваше волосся."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Цікава особистість і гарна зовнішність",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47751,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть, що вам подобається у вашій улюбленій знаменитості."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він дуже любить дітей.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47765,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви стисло описали Пітера Пена?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він носить окуляри та він чарівник.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47766,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви коротко описали комусь Гаррі Поттера?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він симпатичний, розумний і вбивця.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47768,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали Джеймса Бонда інопланетянам?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він розумний і навчає мутантів.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47769,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви стисло описали професора Ікс?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "В нього дуже багато грошей.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47774,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали Скруджа МакДака?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона обожнює навчати.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48493,
+      "choices": [],
+      "prompt": {
+        "text": "Яка найкраща риса тітоньки Сови?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона надзвичайно сильна та має мотузку.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48491,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть Диво-жінку."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Точно розумний і має вправні руки.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48511,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть, які якості притаманні хорошому кухареві."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "У нього багато класних штукенцій.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48490,
+      "choices": [],
+      "prompt": {
+        "text": "Чому Бетмен такий крутий?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Справедливий і сміливий.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48543,
+      "choices": [],
+      "prompt": {
+        "text": "Які якості мають бути у видатного поліціянта?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він бореться з нацистами.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48489,
+      "choices": [],
+      "prompt": {
+        "text": "Чому Індіана Джонс такий чудовий?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він хрестив Русь.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48488,
+      "choices": [],
+      "prompt": {
+        "text": "Чому Володимир був Великим?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона дуже розумна та чудова письменниця.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48494,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свою улюблену тітку."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона допомагала бідним.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48495,
+      "choices": [],
+      "prompt": {
+        "text": "Що зробило Мати Терезу такою відомою?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона дійсно мене смішить.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44093,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про Ірму Вітовську?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він має бути сильним, швидким і сміливим.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48544,
+      "choices": [],
+      "prompt": {
+        "text": "Які якості мають бути у чудового пожежника?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "тихий, сором'язливий, розумний",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44965,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть інтроверта, використовуючи три прикметники."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "комунікабельний, приязний, веселий",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49248,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть екстраверта, використовуючи три прикметники."
+      }
+    }
+  ]
+}

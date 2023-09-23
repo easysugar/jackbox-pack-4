@@ -1,0 +1,5269 @@
+{
+  "episodeid": 1311,
+  "content": [
+    {
+      "decoys": [
+        {
+          "text": "Буду о п'ятій.",
+          "type": "Negative"
+        },
+        {
+          "text": "Ґиґиськи.",
+          "type": "Negative"
+        },
+        {
+          "text": "Подивись цей мем з котом.",
+          "type": "Negative"
+        },
+        {
+          "text": "Я проспав.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43737,
+      "choices": [],
+      "prompt": {
+        "text": "Яку фразу ви пишете найчастіше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я думаю, ти божевільний.",
+          "type": "Negative"
+        },
+        {
+          "text": "Ти що, з глузду зʼїхав?",
+          "type": "Negative"
+        },
+        {
+          "text": "Ти неначе блекоти наївся.",
+          "type": "Negative"
+        },
+        {
+          "text": "Ти що, здурів?",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43833,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали людині, яка не вірить у висадку на Місяць?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони найгірші.",
+          "type": "Negative"
+        },
+        {
+          "text": "Вони жахливі.",
+          "type": "Negative"
+        },
+        {
+          "text": "Вони роблять боляче.",
+          "type": "Negative"
+        },
+        {
+          "text": "Я ненавиджу їх.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43988,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до понеділків?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я зараз лусну від радості!",
+          "type": "Negative"
+        },
+        {
+          "text": "Мов на сьомому небі!",
+          "type": "Negative"
+        },
+        {
+          "text": "Аж душа співає!",
+          "type": "Negative"
+        },
+        {
+          "text": "Аж на серці потеплішало.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44089,
+      "choices": [],
+      "prompt": {
+        "text": "Які почуття викликає у вас повний кошик цуценят?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я точно не Сергій Бубка.",
+          "type": "Negative"
+        },
+        {
+          "text": "Я точно не Усейн Болт.",
+          "type": "Negative"
+        },
+        {
+          "text": "Мене пережене старенька черепаха.",
+          "type": "Negative"
+        },
+        {
+          "text": "Принаймні я обжену чиюсь бабцю.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43923,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви охарактеризували свої спортивні здібності?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я люблю носити гарні речі.",
+          "type": "Negative"
+        },
+        {
+          "text": "Що з шафи випало.",
+          "type": "Negative"
+        },
+        {
+          "text": "Нічого не змінилося з 7 класу.",
+          "type": "Negative"
+        },
+        {
+          "text": "Сусіди кажуть, що я наркоман.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43920,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали ваш стиль моди?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони точно варті 740 гривень!",
+          "type": "Negative"
+        },
+        {
+          "text": "В мене від них очі болять.",
+          "type": "Negative"
+        },
+        {
+          "text": "Таке відчуття, що тебе зараз з'їсть динозавр!",
+          "type": "Negative"
+        },
+        {
+          "text": "Мене від них нудить.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43865,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша думка щодо тривимірних фільмів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені подобається!",
+          "type": "Negative"
+        },
+        {
+          "text": "Це повна гидота.",
+          "type": "Negative"
+        },
+        {
+          "text": "Хіба що разом з алкоголем.",
+          "type": "Negative"
+        },
+        {
+          "text": "Він точно кращий, ніж решта.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43857,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до томатного соку?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони дуже недооцінені.",
+          "type": "Negative"
+        },
+        {
+          "text": "Спогад, знайомий з дитинства.",
+          "type": "Negative"
+        },
+        {
+          "text": "Вони були ще за каденції.",
+          "type": "Negative"
+        },
+        {
+          "text": "Не розумію, чому люди кладуть це до рота.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43820,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про барбариски?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Йди за своїми мріями.",
+          "type": "Negative"
+        },
+        {
+          "text": "Йди за своїми мріями.",
+          "type": "Negative"
+        },
+        {
+          "text": "Йди за своїми мріями.",
+          "type": "Negative"
+        },
+        {
+          "text": "Йди за своїми мріями.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43763,
+      "choices": [],
+      "prompt": {
+        "text": "Що саме ви б сказали десятирічному \"собі\"?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Не моє.",
+          "type": "Negative"
+        },
+        {
+          "text": "Має право на життя.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це найбільший прорив у кулінарії.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це міг вигадати лише диявол.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43879,
+      "choices": [],
+      "prompt": {
+        "text": "Що скажете про ананас на піці?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Змушує мене крінжувати.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це просто крінж.",
+          "type": "Negative"
+        },
+        {
+          "text": "Лише сором.",
+          "type": "Negative"
+        },
+        {
+          "text": "Мені соромно за це.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43877,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша реакція на слово \"спалахуйка\"?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я люблю дивитися їх разом зі своїми дітьми.",
+          "type": "Negative"
+        },
+        {
+          "text": "Я дивлюся їх разом із дітьми.",
+          "type": "Negative"
+        },
+        {
+          "text": "Постійно дивлюся разом з дітьми.",
+          "type": "Negative"
+        },
+        {
+          "text": "Діти їх обожнюють.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43772,
+      "choices": [],
+      "prompt": {
+        "text": "Загалом, як ви ставитеся до фільмів про супергероїв?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я кохаю свою дружину!",
+          "type": "Negative"
+        },
+        {
+          "text": "Виходь за мене!",
+          "type": "Negative"
+        },
+        {
+          "text": "Я щаслива людина!",
+          "type": "Negative"
+        },
+        {
+          "text": "Я живий!!",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43917,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви хотіли прокричати з вершини Говерли?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Її не можна недооцінювати.",
+          "type": "Negative"
+        },
+        {
+          "text": "Дуже гнучка.",
+          "type": "Negative"
+        },
+        {
+          "text": "Дуже ліберальна.",
+          "type": "Negative"
+        },
+        {
+          "text": "Такій людині краще не переходити дорогу.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43804,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали пересічну людину, яка займається йогою?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Хто я такий, щоб засуджувати?",
+          "type": "Negative"
+        },
+        {
+          "text": "Хто я такий, щоб казати, що ви помиляєтесь?",
+          "type": "Negative"
+        },
+        {
+          "text": "Хто вони такі, щоб таке казати?",
+          "type": "Negative"
+        },
+        {
+          "text": "Хіба вони праві?",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43806,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша думка про людей, що заперечують глобальне потепління?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Якщо чесно, я вважаю, що це грубо.",
+          "type": "Negative"
+        },
+        {
+          "text": "Як до такого взагалі додумались?!",
+          "type": "Negative"
+        },
+        {
+          "text": "Це проти усіх правил етикету.",
+          "type": "Negative"
+        },
+        {
+          "text": "Якщо чесно, це неймовірно грубо.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43834,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про людей, які стрижуть нігті в громадському транспорті?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони веселі!",
+          "type": "Negative"
+        },
+        {
+          "text": "Вони прикольні!",
+          "type": "Negative"
+        },
+        {
+          "text": "Це кумедно!",
+          "type": "Negative"
+        },
+        {
+          "text": "Вони цікаві!",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43753,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про інстаграм-сторінки тварин?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він сильна людина, яка має деякі недоліки.",
+          "type": "Negative"
+        },
+        {
+          "text": "Він сильна людина, але має деякі недоліки.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це сильна людина, але не без недоліків.",
+          "type": "Negative"
+        },
+        {
+          "text": "Він сильний президент, але з деякими недоліками.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43747,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали Петра Порошенка прибульцям?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я погоджуюсь.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це правда.",
+          "type": "Negative"
+        },
+        {
+          "text": "Теж так думаю.",
+          "type": "Negative"
+        },
+        {
+          "text": "Саме так.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43862,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви скажете людям, які вважають, що собаки кращі за котів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це ідеальний спосіб провести вечір п’ятниці з родиною.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це класний спосіб провести вечір п’ятниці з друзями.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це чудовий спосіб провести вечір пʼятниці.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це веселий спосіб провести вечір пʼятниці разом з друзями.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43922,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до караоке?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені потрібно це обдумати.",
+          "type": "Negative"
+        },
+        {
+          "text": "А це де?",
+          "type": "Negative"
+        },
+        {
+          "text": "Я подумаю.",
+          "type": "Negative"
+        },
+        {
+          "text": "Мені потрібно це обдумати.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43875,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали, якби ваш начальник повідомив, що ви мусите переїхати до Житомира?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це точно не мій формат.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це явно не для мене знято.",
+          "type": "Negative"
+        },
+        {
+          "text": "Часом можна погигикати.",
+          "type": "Negative"
+        },
+        {
+          "text": "Найкраще, що траплялося зі мною.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43871,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про шоу <i>Україна має талант</i>?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я їм це щодня.",
+          "type": "Negative"
+        },
+        {
+          "text": "Вперше чую.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це повна гидота.",
+          "type": "Negative"
+        },
+        {
+          "text": "Виглядає як какулі мурах.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43866,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до насіння льону?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ти з глузду з'їхав?!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43921,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали тому, хто не любить фільми Pixar?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це збиває мене з пантелику, але мені це подобається.",
+          "type": "Negative"
+        },
+        {
+          "text": "Воно дивне, але мені зайшло.",
+          "type": "Negative"
+        },
+        {
+          "text": "Воно бентежне, але щось в цьому є.",
+          "type": "Negative"
+        },
+        {
+          "text": "Вони дивакувате, але мені подобається.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43863,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша загальна думка про <i>Гру престолів</i>?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Увесь цей екшн мене укачує.",
+          "type": "Negative"
+        },
+        {
+          "text": "Забагато рухів, мене нудить.",
+          "type": "Negative"
+        },
+        {
+          "text": "Десептикони, та добийте вже їх!",
+          "type": "Negative"
+        },
+        {
+          "text": "Бачила тільки один, нормуль.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43856,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша загальна думка про фільми про <i>трансформерів</i>?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "У мене це добре виходить.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45621,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали свої кулінарні здібності?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я вас дуже поважаю.",
+          "type": "Negative"
+        },
+        {
+          "text": "Коли зарплата?",
+          "type": "Negative"
+        },
+        {
+          "text": "Моя повага.",
+          "type": "Negative"
+        },
+        {
+          "text": "Я хочу у відпустку",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43831,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви хотіли сказати своєму начальнику?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Таке нудне, що аж боляче.",
+          "type": "Negative"
+        },
+        {
+          "text": "Таке солодке, що аж боляче.",
+          "type": "Negative"
+        },
+        {
+          "text": "Солодке до болю.",
+          "type": "Negative"
+        },
+        {
+          "text": "Таке солодке, що аж погано.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43769,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до згущеного молока?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Добре, що я це переварюю.",
+          "type": "Negative"
+        },
+        {
+          "text": "Добре, що мені не треба її дотримуватися.",
+          "type": "Negative"
+        },
+        {
+          "text": "Добре, що в мене нема таких обмежень.",
+          "type": "Negative"
+        },
+        {
+          "text": "Це підходить лише окремим людям.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43704,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про безглютенові дієти?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Думаю, їх костюми мати гарний вигляд.",
+          "type": "Negative"
+        },
+        {
+          "text": "Їхні костюми просто чарівні.",
+          "type": "Negative"
+        },
+        {
+          "text": "Їхні костюми дуже важко створювати.",
+          "type": "Negative"
+        },
+        {
+          "text": "Вони показують тих, хто їм подобається.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43755,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про людей, які займаються косплеєм?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ви ніколи мене там не побачите!",
+          "type": "Negative"
+        },
+        {
+          "text": "Я не готовий до такого!",
+          "type": "Negative"
+        },
+        {
+          "text": "Ноги моєї тут не буде!",
+          "type": "Negative"
+        },
+        {
+          "text": "Я в таких місцях не буваю!",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43756,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про нудистські пляжі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я не дуже на це сподіваюся.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43768,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви відчуваєте, коли чуєте: \"Майстер приїде десь з полудня до шостої\"?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я піду в П'яну вишню.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43805,
+      "choices": [],
+      "prompt": {
+        "text": "У вас є дві години у Львові. Що ви будете робити?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "В розмінуванні чемпіон",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43816,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про Пса Патрона?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Де мої 500 гривень?",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43817,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви хотіли сказати своєму сусідові?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони змушують мене сміятися як ніколи.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43827,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до каламбурів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони, мабуть, люблять свою родину.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43869,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про людей, які йдуть о 5 ранку скуплятися в секонди?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я підтримую їхнє право.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43830,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про додавання кетчупу до канапок?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вибачте. Це нечемно.",
+          "type": "Negative"
+        },
+        {
+          "text": "Шановний, це нечемно!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43854,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви хотіли сказати людині, яка протиснулась перед вами в чергу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я люблю носити їх по хаті.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43965,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до кроксів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони дуже зручні.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48529,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до джинсових комбінезонів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це те, що тримає мене в живих.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44154,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до кави?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я відразу йду до танцю.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44158,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до української етномузики?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Зараз я почуваюся досить весело.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44159,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали свій нинішній настрій?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я кричу як дівчисько.",
+          "type": "Negative"
+        },
+        {
+          "text": "Я верещу як дівчисько.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44155,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви зазвичай реагуєте, коли ви бачите павука?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені зле.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44161,
+      "choices": [],
+      "prompt": {
+        "text": "Яке ваше найпопулярніше виправдання для того, щоб не робити щось?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Астанавітєсь.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44160,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви взагалі думаєте про політичні меми?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Шо ви, пацики на моциках?",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44163,
+      "choices": [],
+      "prompt": {
+        "text": "Якби ви були персонажем ситкому, якою б була ваша крилата фраза?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Тут лежить людина, віддана Богові.",
+          "type": "Negative"
+        },
+        {
+          "text": "Жив недовго, помер нудно.",
+          "type": "Negative"
+        },
+        {
+          "text": "Вигул собак заборонений.",
+          "type": "Negative"
+        },
+        {
+          "text": "А з моїми кредитами розберуться мої діти.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44164,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви написали на своєму надгробку?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Аж на серці потеплішало.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44167,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про вилазки на природу з таборуванням?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені сподобався той на моєму весіллі.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48530,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша думка щодо діджеїв?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Будь ласка, покваптеся!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44169,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви зазвичай кричите в заторі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "На щастя, я ніколи ними не користувався.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44168,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про застосунки для знайомств?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Будь ласка, робіть свою роботу якнайкраще.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44172,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви хотіли сказати своєму босу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені від них зле.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44246,
+      "choices": [],
+      "prompt": {
+        "text": "Як загалом ви ставитеся до фільмів про зомбі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це весело із правильними людьми.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44543,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до вікторин?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона просто жахлива.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44170,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали найбільш дратівливу людину на роботі/у школі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ідеальне до кави.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44157,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про рослинне молоко?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Будь добрими до них.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45021,
+      "choices": [],
+      "prompt": {
+        "text": "Який найкращий спосіб заслужити чиюсь повагу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це огидний прояв обжерливості.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45017,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до поїдання на швидкість?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Чоловік - голова, а жінка - шия.",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45000,
+      "choices": [],
+      "prompt": {
+        "text": "У чому таємниця щасливого шлюбу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Підлога там огидна.",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44989,
+      "choices": [],
+      "prompt": {
+        "text": "Який ваш досвід життя в дешевих мотелях?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я не можу наїстися!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48533,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до закруток?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я справді захоплююся садівництвом.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44986,
+      "choices": [],
+      "prompt": {
+        "text": "Що більшість людей не знає про вас?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені дуже подобається ваша робота.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44983,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви хотіли сказати Бреду Пітту?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Так я почуваюся розумним!",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44987,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть почуття, коли люди сміються над вашим жартом."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я тебе зачув за милю.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44982,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали хлопцю, який наносить забагато одеколону?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ох, дідько! Тільки не знову!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44979,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша перша думка, коли ви проспали?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я дуже дратуюся!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48534,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви відчуваєте, коли хтось намагається зав’язати з вами розмову в ліфті?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це рідкісний шанс зібратися разом.",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44977,
+      "choices": [],
+      "prompt": {
+        "text": "Що вам подобається в сімейних застіллях?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мене ніхто не намагався підчепити.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44969,
+      "choices": [],
+      "prompt": {
+        "text": "Якою фразою можна когось підчепити?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "У них хороша чуйка.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44968,
+      "choices": [],
+      "prompt": {
+        "text": "Що спільного у всіх багатих людей?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Така горда велична тварина!",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44963,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть свої думки, коли ви бачите лева в зоопарку."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Можна просто сказати, що він хороший хлопець.",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44973,
+      "choices": [],
+      "prompt": {
+        "text": "Чому люди люблять Тома Генкса?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "У нас обох однакова трудова етика.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44958,
+      "choices": [],
+      "prompt": {
+        "text": "Чим ви найбільше схожі на свого тата?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Радію, що у мене є мій - тримаюсь у формі!",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44956,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до абонементів у спортзал?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Та в них дах поїхав!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Positive"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44951,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про мисливців за торнадо?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені подобається, що ти дбаєш про інших",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45123,
+      "choices": [],
+      "prompt": {
+        "text": "Який найкращий комплімент хтось може вам зробити?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Завжди вір у себе",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44950,
+      "choices": [],
+      "prompt": {
+        "text": "Яку найкращу пораду тобі коли-небудь давали батьки?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я допоміг одній літній жінці занести сумки.",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44942,
+      "choices": [],
+      "prompt": {
+        "text": "Що найкраще ви зробили сьогодні?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони все роблять по-іншому.",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44940,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про французів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я відчуваю себе сповненим енергії.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44971,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть, що ви відчуваєте після перегляду українських ТБ шоу."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Якщо вони достатньо дорослі, все ок",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45125,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до дітей зі смартфонами?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Не можу їх терпіти.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45343,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до американських гірок?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Все одно вони в ній.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45612,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша позиція щодо людей, які \"поза політикою\"?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ніби в мене повні кишені награбованого.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48535,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть, що ви відчуваєте, коли проходите біля охоронця в супермаркеті без покупок."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Кому як зручно.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45613,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про людей, які приймають душ вночі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Все з дітьми гаразд!",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45163,
+      "choices": [],
+      "prompt": {
+        "text": "Що сьогодні не так з дітьми?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я думаю, що там лише звірі.",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45180,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про реслінг?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Покладіть їх до рота - і відразу пошкодуйте",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45131,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до суші з супермаркету?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Їх не зупинити.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45197,
+      "choices": [],
+      "prompt": {
+        "text": "Яке ваше ставлення до службових романів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мене вони дуже дратують!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45614,
+      "choices": [],
+      "prompt": {
+        "text": "Які емоції у вас викликає Інтер?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони справді мене надихають!",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45173,
+      "choices": [],
+      "prompt": {
+        "text": "Які почуття викликають у вас мотиваційні цитати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Побувавши там, я відчуваю себе розумніше.",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44957,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша думка про бібліотеки?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я думаю, більшість з них нудні.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44677,
+      "choices": [],
+      "prompt": {
+        "text": "Загалом, як ви ставитесь до подкастів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це крінж.",
+          "type": "Negative"
+        },
+        {
+          "text": "Куля в лоб то куля в лоб.",
+          "type": "Negative"
+        },
+        {
+          "text": "Кровосісі!",
+          "type": "Negative"
+        },
+        {
+          "text": "Тобі ніхто грошей не дасть.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46406,
+      "choices": [],
+      "prompt": {
+        "text": "Який вислів ви б заборонили?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони хитруни!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48536,
+      "choices": [],
+      "prompt": {
+        "text": "Що чудового в мілленіалах?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ага, як скажеш.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48519,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали людині, яка хвалиться тим, що не має телевізора?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ви повинні пробувати нове!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46417,
+      "choices": [],
+      "prompt": {
+        "text": "Яку пораду щодо знайомств ви б дали літній людині?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони сором'язливі та занудні.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45196,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви б описали гравця у <i>Dota 2</i>?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Бляха, от би зараз трохи готівки.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45617,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви відреагуєте, якщо побачите у вбиральні вахтерку?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Будь ласка, потерпи.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46414,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали людині, яка листується в телефоні під час фільму?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я не можу наїстися скумбрією!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46418,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до морепродуктів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Погоджуюсь - вони існують!",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45162,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали тому, хто вірить в існування прибульців?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Тому що вони жахливі.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46478,
+      "choices": [],
+      "prompt": {
+        "text": "Чому так багато людей висміюють Воплі Відоплясова?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Зробити це особисто.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46569,
+      "choices": [],
+      "prompt": {
+        "text": "Який чемний спосіб розлучитися з кимось?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Люди повинні більше працювати разом.",
+          "type": "Negative"
+        },
+        {
+          "text": "Усіх на вила!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46487,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про поточний політичний клімат?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це дуже незвично!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46572,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви говорите комусь, коли вам не подобається їхня їжа?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони роблять добру справу.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46488,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про захисників тварин?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я миротворець.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46579,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали свою роль у вашій родині?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Тому що вони чудові!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48526,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви думаєте, чому знято так багато фільмів <i>Форсаж</i>?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я щасливий.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46471,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви думаєте, яку найпоширенішу неправду говорять люди?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Чули якісь анекдоти останнім часом?",
+          "type": "Negative"
+        },
+        {
+          "text": "Хочете розкажу анекдот?",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46610,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви говорите, коли в розмові настала незручна тиша?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені набридла ця полеміка.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46587,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша бомбезна фраза закінчує будь-яку суперечку?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені воно незрозуміле.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49413,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до сучасного мистецтва?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Так гарно!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48516,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до музики бандури?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Щастя, здоровʼя.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46573,
+      "choices": [],
+      "prompt": {
+        "text": "Які мовні кліше ви використовуєте найчастіше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Їх не існує, але вони мене лякають!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45200,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали своє ставлення до привидів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ви жахливо робите свою роботу!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49440,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви хотіли сказати поганому офіціанту?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я думаю, він переоцінений.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48528,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до шоколаду?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони завдають багато шкоди.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49258,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до батьків, які не вакцинують своїх дітей?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Що там по погоді?",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46627,
+      "choices": [],
+      "prompt": {
+        "text": "Яку тему для невеликих розмов ви любите?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Щоразу що треба.",
+          "type": "Negative"
+        },
+        {
+          "text": "Свято наближається, свято наближається.",
+          "type": "Negative"
+        },
+        {
+          "text": "Беремо і робимо.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46734,
+      "choices": [],
+      "prompt": {
+        "text": "Яке гасло продукту спадає на думку першим?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я мушу погодитися з вами.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46816,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали тому, хто вважає, що торт кращий за пиріг?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він переоцінений.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46792,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про Шекспіра?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він такий милий!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48523,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про президента Польщі Анджея Дуду?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ніііі!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49260,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали, якби ваш лікар сказав вам відмовитися від цукру на місяць?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це абсолютно природно!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46778,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до оголеності на телебаченні?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Все вони правильно роблять.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48537,
+      "choices": [],
+      "prompt": {
+        "text": "Люди, які йдуть з вечірок по-англійськи. Ваше ставлення?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Доброго ранку всім.",
+          "type": "Negative"
+        },
+        {
+          "text": "Ранечку усім!",
+          "type": "Negative"
+        },
+        {
+          "text": "Де моя кава?",
+          "type": "Negative"
+        },
+        {
+          "text": "Я знов проспав!",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49249,
+      "choices": [],
+      "prompt": {
+        "text": "Яку фразу ви сьогодні сказали найпершою?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ти погана людина!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48520,
+      "choices": [],
+      "prompt": {
+        "text": "Яку гарну фразу можна викрикнути під час сварки з іншим водієм?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Обома руками за.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46771,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша позиція щодо смертної кари?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "У нас однакове почуття гумору.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49262,
+      "choices": [],
+      "prompt": {
+        "text": "Чим ви найбільше схожі на свою маму?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони марнотрати!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46738,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про людей, які не сортують сміття?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мама ама волонтер",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48499,
+      "choices": [],
+      "prompt": {
+        "text": "Який справді жахливий текст пісні?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони доволі божевільні.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49421,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про людей, які живуть у комунах?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони виглядають тупо.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46770,
+      "choices": [],
+      "prompt": {
+        "text": "Поліція на електросамокатах. Ваші думки?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "В цілому підтримую.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46769,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до того, як витрачаються ваші податки?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це лише привід заробити гроші",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44583,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до дня Святого Валентина?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони справді розганяють мені серце!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48525,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до жахастиків?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це вибір кожного, але це явно не моє.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46766,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до людей, які носять хутро?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Дідько!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49252,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша улюблена лайка?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Здається, це справді круте місце.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49398,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про Амстердам?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це повне божевілля.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48538,
+      "choices": [],
+      "prompt": {
+        "text": "А що ви думаєте про теорію, що прибульці збудували піраміди?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Нехай буде з тобою Сила!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49254,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша улюблена цитата з фільму?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Люблю позитивних людей!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46480,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть людську рису, яка вас захоплює."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це все так фальшиво.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48524,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про реслінг?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Його не існує!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49366,
+      "choices": [],
+      "prompt": {
+        "text": "Як справи у вашому пенсійному фонді?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Маємо, що маємо.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49255,
+      "choices": [],
+      "prompt": {
+        "text": "Яка одна з ваших улюблених цитат сьогодення?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це чудовий друг!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49484,
+      "choices": [],
+      "prompt": {
+        "text": "Що хорошого ви можете сказати про найближчу до вас людину прямо зараз?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Тобі в голову напудили.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49250,
+      "choices": [],
+      "prompt": {
+        "text": "Яка ваша улюблена образа?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "То що ви думаєте про політику?",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46466,
+      "choices": [],
+      "prompt": {
+        "text": "Що є хорошим питанням для початку розмови?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я не можу натішитися!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46403,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про анчоуси?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ніби смітник у вогні.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48522,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали політику у 2017 році?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Нас неправильно розуміють.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46643,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали ваше покоління?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Зазнавати невдачі нормально.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43849,
+      "choices": [],
+      "prompt": {
+        "text": "Що б ви сказали собі молодшому?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Тому що вона красива.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49478,
+      "choices": [],
+      "prompt": {
+        "text": "Чому Мона Ліза така популярна?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він гарний пірат.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48497,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про Джонні Деппа?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Нас не подолати!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49251,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви любите кричати, коли ви в захваті?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Справа не в тобі.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46763,
+      "choices": [],
+      "prompt": {
+        "text": "Яку фразу краще використати, коли намагаєтеся делікатно розлучитися з кимось?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я хочу мати від тебе дітей.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49256,
+      "choices": [],
+      "prompt": {
+        "text": "Що дуже моторошне можна нашепотіти комусь?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Просто красунчик!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49364,
+      "choices": [],
+      "prompt": {
+        "text": "Як вас описав би менеджер з вашого відділення Нової Пошти?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він мене ніколи не бачить!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49365,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ваш лікар, ймовірно, описав вас?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "А вам, бачу, подобається мене гойдати!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49271,
+      "choices": [],
+      "prompt": {
+        "text": "Яке повідомлення ви б щиро хотіли надіслати у свій банк?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Хай йому грець!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46497,
+      "choices": [],
+      "prompt": {
+        "text": "Яку фразу ви використовуєте, коли сердитесь?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це просто трюк.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48540,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до незвичайних смаків картопляних чипсів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це чудова вправа для тімбілдингу!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49253,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про квест-кімнати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Якось сумно.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48527,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви зазвичай почуваєтеся на свій день народження?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я віддаю перевагу органіці.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47162,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про ГМО-їжу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ви станете дуже багатим.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46835,
+      "choices": [],
+      "prompt": {
+        "text": "Яке нудне передбачення у чеку з Сільпо?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Час від часу це приємно робити.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48539,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте стосовно подачі сніданку на вечерю?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ці руки нічого не крали!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46745,
+      "choices": [],
+      "prompt": {
+        "text": "Яку політичну фразу чи гасло ви втомилися чути?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мене від них нудить",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44450,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до перестиглих бананів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Прошу, зупиніться!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49209,
+      "choices": [],
+      "prompt": {
+        "text": "Що вам часто хочеться вигукнути під час перегляду новин?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Варто частіше листуватися.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 46489,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви могли б стати кращим другом?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Воно наповнює мене радістю!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48521,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до Різдва?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Занадто релігійно для мене.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49261,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до Великодня?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "В мене на завтра купа справ.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48542,
+      "choices": [],
+      "prompt": {
+        "text": "Що вам зазвичай приходить на думку, коли ви намагаєтеся заснути?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Дітям, схоже, вони до вподоби.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47554,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до спінерів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Її пісні мене вибішують.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49236,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про Машу Кондратенко?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Супер нудятина.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43987,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про гольф?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ооо так. Таточко це любить.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43743,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви б прошепотіли собі, поки купаєтеся в гарячій ванні?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ви мене не знаєте!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49363,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви б хотіли сказати своїм ненависникам?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Як вам смакує?",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48498,
+      "choices": [],
+      "prompt": {
+        "text": "Що завжди говорить нестерпний офіціант?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Мені воно незрозуміле.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48541,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до аніме?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я по вуха в коханні.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49457,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви б хотіли сказати людині, яка зараз найближче до вас?"
+      }
+    }
+  ]
+}

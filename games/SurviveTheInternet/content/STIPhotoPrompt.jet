@@ -1,0 +1,7220 @@
+{
+  "episodeid": 1315,
+  "content": [
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44927,
+      "choices": [
+        {
+          "id": "Beach",
+          "text": "пляж"
+        },
+        {
+          "id": "Mountains",
+          "text": "гори"
+        }
+      ],
+      "prompt": {
+        "text": "Яке місце є найкращим для пропозиції руки й серця?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44928,
+      "choices": [
+        {
+          "id": "Salmon",
+          "text": "лосось"
+        },
+        {
+          "id": "Steak",
+          "text": "стейк"
+        }
+      ],
+      "prompt": {
+        "text": "Якби ви мали з'їсти одну з цих страв, яку б ви вибрали?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44930,
+      "choices": [
+        {
+          "id": "Dog",
+          "text": "пес"
+        },
+        {
+          "id": "Moose",
+          "text": "лось"
+        }
+      ],
+      "prompt": {
+        "text": "Якби ви були однією з цих тварин, кого б ви обрали?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48250,
+      "choices": [
+        {
+          "id": "Airplane",
+          "text": "літак"
+        },
+        {
+          "id": "SubwayCar",
+          "text": "метро"
+        }
+      ],
+      "prompt": {
+        "text": "Який спосіб транспортування для вас найнезручніший?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48251,
+      "choices": [
+        {
+          "id": "Sailboat",
+          "text": "мати вітрильник"
+        },
+        {
+          "id": "HotAirBalloon",
+          "text": "мати повітряну кулю"
+        }
+      ],
+      "prompt": {
+        "text": "Що є символом статусності?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48252,
+      "choices": [
+        {
+          "id": "Suitcase",
+          "text": "для відпустки"
+        },
+        {
+          "id": "Moving",
+          "text": "для переїзду"
+        }
+      ],
+      "prompt": {
+        "text": "Для чого ви, ймовірно, спакуєте речі наступного разу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44932,
+      "choices": [
+        {
+          "id": "Dog",
+          "text": "пес"
+        },
+        {
+          "id": "Moose",
+          "text": "лось"
+        }
+      ],
+      "prompt": {
+        "text": "Яка тварина цікавіша?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47402,
+      "choices": [
+        {
+          "id": "Mexican",
+          "text": "Мексиканська кухня"
+        },
+        {
+          "id": "Indian",
+          "text": "індійська кухня"
+        }
+      ],
+      "prompt": {
+        "text": "Якби ви могли їсти лише один вид страв, який би ви обрали?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47394,
+      "choices": [
+        {
+          "id": "Park",
+          "text": "у парку"
+        },
+        {
+          "id": "Office",
+          "text": "за своїм столом"
+        }
+      ],
+      "prompt": {
+        "text": "Де ви найчастіше обідаєте влітку?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48254,
+      "choices": [
+        {
+          "id": "Giraffe",
+          "text": "спостерігати за жирафами у дикій природі"
+        },
+        {
+          "id": "ShootingStar",
+          "text": "побачити, як падає зірка"
+        }
+      ],
+      "prompt": {
+        "text": "Що більш захопливе?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47393,
+      "choices": [
+        {
+          "id": "Chimpanzee",
+          "text": "шимпанзе"
+        },
+        {
+          "id": "Rabbit",
+          "text": "кролик"
+        }
+      ],
+      "prompt": {
+        "text": "Яку тварину, на вашу думку, ви намалюєте краще?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47392,
+      "choices": [
+        {
+          "id": "Lion",
+          "text": "лев"
+        },
+        {
+          "id": "Horse",
+          "text": "кінь"
+        }
+      ],
+      "prompt": {
+        "text": "Яка тварина має кращу гриву?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47365,
+      "choices": [
+        {
+          "id": "PostOffice",
+          "text": "в черзі на пошті"
+        },
+        {
+          "id": "Traffic",
+          "text": "в автозаторі"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви не хотіли бути, коли вас схопить діарея?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48309,
+      "choices": [
+        {
+          "id": "Russia",
+          "text": "в Україні"
+        },
+        {
+          "id": "Jungle",
+          "text": "у тропічних джунглях"
+        }
+      ],
+      "prompt": {
+        "text": "Де найгірша погода?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47362,
+      "choices": [
+        {
+          "id": "ParkingTicket",
+          "text": "отримати штраф за паркування"
+        },
+        {
+          "id": "Goldfish",
+          "text": "з'їсти золоту рибку"
+        }
+      ],
+      "prompt": {
+        "text": "Якби у вас був вибір, що б ви обрали?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47361,
+      "choices": [
+        {
+          "id": "CoffeeShop",
+          "text": "у кав'ярні"
+        },
+        {
+          "id": "Boxing",
+          "text": "на боксерському матчі"
+        }
+      ],
+      "prompt": {
+        "text": "Де цікавіше спостерігати за людьми?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48282,
+      "choices": [
+        {
+          "id": "Wedding",
+          "text": "весілля"
+        },
+        {
+          "id": "Minivan",
+          "text": "авто"
+        }
+      ],
+      "prompt": {
+        "text": "На що б ви радше витратили гроші?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47360,
+      "choices": [
+        {
+          "id": "Island",
+          "text": "свій особистий острів"
+        },
+        {
+          "id": "Steak",
+          "text": "безкоштовні стейки до кінця життя"
+        }
+      ],
+      "prompt": {
+        "text": "Що б ви хотіли виграти?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47359,
+      "choices": [
+        {
+          "id": "Minivan",
+          "text": "покупка авто"
+        },
+        {
+          "id": "AvocadoToast",
+          "text": "покупка вегетаріанської їжі"
+        }
+      ],
+      "prompt": {
+        "text": "Що більш популярне серед ваших друзів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48361,
+      "choices": [
+        {
+          "id": "Sunset",
+          "text": "захід сонця"
+        },
+        {
+          "id": "HorseRace",
+          "text": "кінні перегони"
+        }
+      ],
+      "prompt": {
+        "text": "Що краще описує ваш настрій в цей момент?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47358,
+      "choices": [
+        {
+          "id": "MovieTheater",
+          "text": "у кінотеатрі"
+        },
+        {
+          "id": "Wrestling",
+          "text": "на матчі з реслінгу\n"
+        }
+      ],
+      "prompt": {
+        "text": "Де краще розлучатися з кимось?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48281,
+      "choices": [
+        {
+          "id": "HouseParty",
+          "text": "серед людей"
+        },
+        {
+          "id": "Meditation",
+          "text": "на самоті"
+        }
+      ],
+      "prompt": {
+        "text": "Де ви зазвичай відчуваєте себе найбільш комфортно?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47357,
+      "choices": [
+        {
+          "id": "Segway",
+          "text": "покупка електросамоката"
+        },
+        {
+          "id": "Orangutan",
+          "text": "покупка домашнього орангутана"
+        }
+      ],
+      "prompt": {
+        "text": "Що більше вразить твоїх друзів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47428,
+      "choices": [
+        {
+          "id": "SemiTruck",
+          "text": "фура"
+        },
+        {
+          "id": "Segway",
+          "text": "електросамокат"
+        }
+      ],
+      "prompt": {
+        "text": "На трасі життя ви..."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47355,
+      "choices": [
+        {
+          "id": "GasStation",
+          "text": "на заправці"
+        },
+        {
+          "id": "Airplane",
+          "text": "у літаку"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви сходили у туалет?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48313,
+      "choices": [
+        {
+          "id": "Gym",
+          "text": "у спортзалі"
+        },
+        {
+          "id": "ConcertStage",
+          "text": "на відкритому концерті"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви радше попітніли?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47353,
+      "choices": [
+        {
+          "id": "Convertible",
+          "text": "поїздка у кабріолеті"
+        },
+        {
+          "id": "Museum",
+          "text": "похід у музей"
+        }
+      ],
+      "prompt": {
+        "text": "Що на побаченні вразить вас більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48255,
+      "choices": [
+        {
+          "id": "London",
+          "text": "у Лондоні"
+        },
+        {
+          "id": "Vegas",
+          "text": "у Лас-Вегасі"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви провели свою наступну відпустку?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47349,
+      "choices": [
+        {
+          "id": "Indian",
+          "text": "індійські страви"
+        },
+        {
+          "id": "Volleyball",
+          "text": "волейбольний матч"
+        }
+      ],
+      "prompt": {
+        "text": "Заради чого до вас приєдналося б більше ваших друзів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48253,
+      "choices": [
+        {
+          "id": "Soccer",
+          "text": "футбол"
+        },
+        {
+          "id": "ApplePicking",
+          "text": "збір яблук"
+        }
+      ],
+      "prompt": {
+        "text": "Що найпривабливіше в осені?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48257,
+      "choices": [
+        {
+          "id": "RollerCoaster",
+          "text": "їзда на американських гірках"
+        },
+        {
+          "id": "Motorcycle",
+          "text": "їзда на мотоциклі"
+        }
+      ],
+      "prompt": {
+        "text": "Що більш захопливе?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47345,
+      "choices": [
+        {
+          "id": "Train",
+          "text": "мальовнича поїздка у потязі"
+        },
+        {
+          "id": "Mountains",
+          "text": "похід у гори"
+        }
+      ],
+      "prompt": {
+        "text": "Що вам здається кращою пригодою?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44926,
+      "choices": [
+        {
+          "id": "Beach",
+          "text": "пляж"
+        },
+        {
+          "id": "Mountains",
+          "text": "гори"
+        }
+      ],
+      "prompt": {
+        "text": "Який краєвид ви б хотіли побачити у своїй наступній відпустці?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47344,
+      "choices": [
+        {
+          "id": "Hamburger",
+          "text": "смачний гамбургер"
+        },
+        {
+          "id": "RomanticGetaway",
+          "text": "романтична поїздка"
+        }
+      ],
+      "prompt": {
+        "text": "Чому б ви зараз віддали перевагу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47342,
+      "choices": [
+        {
+          "id": "Bicycle",
+          "text": "катання на велосипеді"
+        },
+        {
+          "id": "Tennis",
+          "text": "гра в теніс"
+        }
+      ],
+      "prompt": {
+        "text": "Яким вправам ви віддасте перевагу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48329,
+      "choices": [
+        {
+          "id": "Puppies",
+          "text": "цуценята"
+        },
+        {
+          "id": "Kittens",
+          "text": "кошенята"
+        }
+      ],
+      "prompt": {
+        "text": "За ким легше доглядати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47338,
+      "choices": [
+        {
+          "id": "Basketball",
+          "text": "баскетбол"
+        },
+        {
+          "id": "HotDogs",
+          "text": "хот-дог"
+        }
+      ],
+      "prompt": {
+        "text": "Що вас більше цікавить?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48355,
+      "choices": [
+        {
+          "id": "Salad",
+          "text": "поїдання салату"
+        },
+        {
+          "id": "Yoga",
+          "text": "зайняття йогою"
+        }
+      ],
+      "prompt": {
+        "text": "Яку здорову звичку легше прийняти?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48302,
+      "choices": [
+        {
+          "id": "Forest",
+          "text": "прогулянка лісом"
+        },
+        {
+          "id": "Rainstorm",
+          "text": "дощ надворі"
+        }
+      ],
+      "prompt": {
+        "text": "Що заспокоює більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47337,
+      "choices": [
+        {
+          "id": "FarmHouse",
+          "text": "на фермі в глушині"
+        },
+        {
+          "id": "SemiTruck",
+          "text": "в кабіні фури"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви почувалися безпечніше під час зомбі-апокаліпсису?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48256,
+      "choices": [
+        {
+          "id": "Statue",
+          "text": "статую себе"
+        },
+        {
+          "id": "Sailboat",
+          "text": "вітрильник"
+        }
+      ],
+      "prompt": {
+        "text": "Якби ви були мегазаможним, що б ви придбали першочергово?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47336,
+      "choices": [
+        {
+          "id": "Graduation",
+          "text": "чийсь випускний"
+        },
+        {
+          "id": "BirthdayParty",
+          "text": "день народження"
+        }
+      ],
+      "prompt": {
+        "text": "На що з цього важче купити подарунок?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44924,
+      "choices": [
+        {
+          "id": "Cabin",
+          "text": "у лісовій хатинці"
+        },
+        {
+          "id": "Condo",
+          "text": "у квартирі"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви радше жили?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47334,
+      "choices": [
+        {
+          "id": "Motorcycle",
+          "text": "катання на мотоциклі"
+        },
+        {
+          "id": "Boxing",
+          "text": "бокс"
+        }
+      ],
+      "prompt": {
+        "text": "Що було би більш захопливим?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44929,
+      "choices": [
+        {
+          "id": "Salmon",
+          "text": "лосось"
+        },
+        {
+          "id": "Steak",
+          "text": "стейк"
+        }
+      ],
+      "prompt": {
+        "text": "На що б ви радше витратили гроші?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48330,
+      "choices": [
+        {
+          "id": "Puppies",
+          "text": "цуценята"
+        },
+        {
+          "id": "Kittens",
+          "text": "кошенята"
+        }
+      ],
+      "prompt": {
+        "text": "Що більш переоцінене?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47318,
+      "choices": [
+        {
+          "id": "Rainstorm",
+          "text": "потрапити в грозу"
+        },
+        {
+          "id": "Airplane",
+          "text": "двогодинна затримка авіарейсу"
+        }
+      ],
+      "prompt": {
+        "text": "Яка з цих ситуацій більш відстійна?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47314,
+      "choices": [
+        {
+          "id": "Convertible",
+          "text": "у кабріолеті"
+        },
+        {
+          "id": "Horse",
+          "text": "на коні"
+        }
+      ],
+      "prompt": {
+        "text": "На чому б ви хотіли проїхатися центром Тернополя?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48358,
+      "choices": [
+        {
+          "id": "Rollerblades",
+          "text": "на роликах"
+        },
+        {
+          "id": "Segway",
+          "text": "на електросамокаті"
+        }
+      ],
+      "prompt": {
+        "text": "Який спосіб померти найганебніший?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48228,
+      "choices": [
+        {
+          "id": "Wedding",
+          "text": "відвідини весілля"
+        },
+        {
+          "id": "Camping",
+          "text": "туристичний похід"
+        }
+      ],
+      "prompt": {
+        "text": "Які вихідні зазвичай бувають веселішими?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47303,
+      "choices": [
+        {
+          "id": "ParkingTicket",
+          "text": "отримати штраф за паркування"
+        },
+        {
+          "id": "Rainstorm",
+          "text": "потрапити в грозу"
+        }
+      ],
+      "prompt": {
+        "text": "Що відстійніше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44925,
+      "choices": [
+        {
+          "id": "Cabin",
+          "text": "у лісовій хатинці"
+        },
+        {
+          "id": "Condo",
+          "text": "у міській квартирі"
+        }
+      ],
+      "prompt": {
+        "text": "Де ви плануєте жити через 30 років?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47423,
+      "choices": [
+        {
+          "id": "Cabin",
+          "text": "у хатинці"
+        },
+        {
+          "id": "Island",
+          "text": "на острові"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви написали свою біографію?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47260,
+      "choices": [
+        {
+          "id": "CoffeeShop",
+          "text": "кав'ярня/кафе"
+        },
+        {
+          "id": "Office",
+          "text": "офіс"
+        }
+      ],
+      "prompt": {
+        "text": "Де ви можете виконати більше роботи?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47250,
+      "choices": [
+        {
+          "id": "Lion",
+          "text": "лев"
+        },
+        {
+          "id": "Bear",
+          "text": "ведмідь"
+        }
+      ],
+      "prompt": {
+        "text": "У якої тварини виходить лютіше гарчання?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48303,
+      "choices": [
+        {
+          "id": "Soccer",
+          "text": "гра"
+        },
+        {
+          "id": "Guacamole",
+          "text": "чипси"
+        }
+      ],
+      "prompt": {
+        "text": "Що найкраще в поході на футбольний матч?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47247,
+      "choices": [
+        {
+          "id": "Spider",
+          "text": "павуків"
+        },
+        {
+          "id": "Bat",
+          "text": "кажанів"
+        }
+      ],
+      "prompt": {
+        "text": "Чого ви боїтеся більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48314,
+      "choices": [
+        {
+          "id": "Suitcase",
+          "text": "коли збираю речі в дорогу"
+        },
+        {
+          "id": "Gym",
+          "text": "коли збираю сумку в спортзал"
+        }
+      ],
+      "prompt": {
+        "text": "Коли ви найбільше забудькуваті?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47495,
+      "choices": [
+        {
+          "id": "Basketball",
+          "text": "баскетбол"
+        },
+        {
+          "id": "Hockey",
+          "text": "хокей"
+        }
+      ],
+      "prompt": {
+        "text": "Яку гру ви розумієте краще?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48027,
+      "choices": [
+        {
+          "id": "ConcertStage",
+          "text": "музичний фестиваль"
+        },
+        {
+          "id": "BBQ",
+          "text": "фестиваль шашлику"
+        }
+      ],
+      "prompt": {
+        "text": "На який фестиваль ви б радше поїхали?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47246,
+      "choices": [
+        {
+          "id": "Moose",
+          "text": "лося"
+        },
+        {
+          "id": "Dolphin",
+          "text": "дельфіна"
+        }
+      ],
+      "prompt": {
+        "text": "Кого з цих тварин ви б найбільше хотіли зустріти в дикій природі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47410,
+      "choices": [
+        {
+          "id": "Basketball",
+          "text": "баскетбол"
+        },
+        {
+          "id": "Soccer",
+          "text": "футбол"
+        }
+      ],
+      "prompt": {
+        "text": "Який вид спорту був популярнішим там, де ви росли?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47654,
+      "choices": [
+        {
+          "id": "Dolphin",
+          "text": "дельфіна"
+        },
+        {
+          "id": "Gyro",
+          "text": "чебурек"
+        }
+      ],
+      "prompt": {
+        "text": "Якби вам довелося вибирати, що б ви набили собі як тату?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47503,
+      "choices": [
+        {
+          "id": "BBQ",
+          "text": "на шашликах"
+        },
+        {
+          "id": "CoffeeShop",
+          "text": "у кав'ярні"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви хотіли зараз бути?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47491,
+      "choices": [
+        {
+          "id": "Museum",
+          "text": "у музеях"
+        },
+        {
+          "id": "CoffeeShop",
+          "text": "у кав'ярнях"
+        }
+      ],
+      "prompt": {
+        "text": "Де, на вашу думку, працює більше істориків?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48316,
+      "choices": [
+        {
+          "id": "FeetOnBeach",
+          "text": "ноги на пляжі"
+        },
+        {
+          "id": "AvocadoToast",
+          "text": "фотографія їжі"
+        }
+      ],
+      "prompt": {
+        "text": "Який фототренд дратує більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48015,
+      "choices": [
+        {
+          "id": "Soccer",
+          "text": "на футбольний матч"
+        },
+        {
+          "id": "ConcertStage",
+          "text": "на рок-концерт"
+        }
+      ],
+      "prompt": {
+        "text": "На що б ви радше придбали квиток?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47508,
+      "choices": [
+        {
+          "id": "Mountains",
+          "text": "у горах"
+        },
+        {
+          "id": "Beach",
+          "text": "на пляжі"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви, ймовірно, написали більше віршів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47509,
+      "choices": [
+        {
+          "id": "IceCream",
+          "text": "морозиво"
+        },
+        {
+          "id": "Pizza",
+          "text": "піцу"
+        }
+      ],
+      "prompt": {
+        "text": "Що ви радше з'їсте пізно вночі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47534,
+      "choices": [
+        {
+          "id": "Graduation",
+          "text": "виступити на випускному"
+        },
+        {
+          "id": "Ferret",
+          "text": "мати тхора"
+        }
+      ],
+      "prompt": {
+        "text": "Що, на вашу думку, буде більш нервовим?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47525,
+      "choices": [
+        {
+          "id": "GasStation",
+          "text": "на заправці"
+        },
+        {
+          "id": "MovieTheater",
+          "text": "у кінотеатрі"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви сходили у туалет?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47683,
+      "choices": [
+        {
+          "id": "Elephant",
+          "text": "слон"
+        },
+        {
+          "id": "Orangutan",
+          "text": "орангутанг"
+        }
+      ],
+      "prompt": {
+        "text": "Якби вони могли говорити, яка з цих тварин мала б галицький діалект?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47989,
+      "choices": [
+        {
+          "id": "Jeep",
+          "text": "джип"
+        },
+        {
+          "id": "Motorcycle",
+          "text": "мотоцикл"
+        }
+      ],
+      "prompt": {
+        "text": "Що веселіше водити?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47582,
+      "choices": [
+        {
+          "id": "Motel",
+          "text": "сніданок у мотелі"
+        },
+        {
+          "id": "Airplane",
+          "text": "сніданок у літаку"
+        }
+      ],
+      "prompt": {
+        "text": "Що може здатися більше схожим на їжу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47662,
+      "choices": [
+        {
+          "id": "Rollerblades",
+          "text": "ролики"
+        },
+        {
+          "id": "Segway",
+          "text": "електросамокат"
+        }
+      ],
+      "prompt": {
+        "text": "Що з цього робить вас більшим ідіотом?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47996,
+      "choices": [
+        {
+          "id": "Paris",
+          "text": "Париж"
+        },
+        {
+          "id": "NewYorkCity",
+          "text": "Нью-Йорк"
+        }
+      ],
+      "prompt": {
+        "text": "У якому місті найкраща кухня?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47692,
+      "choices": [
+        {
+          "id": "Desert",
+          "text": "пустеля"
+        },
+        {
+          "id": "Igloo",
+          "text": "Антартика"
+        }
+      ],
+      "prompt": {
+        "text": "Де ви, скоріш за все, проживете тиждень?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47652,
+      "choices": [
+        {
+          "id": "Minivan",
+          "text": "мінівен"
+        },
+        {
+          "id": "PickupTruck",
+          "text": "пікап"
+        }
+      ],
+      "prompt": {
+        "text": "Яку з цих автівок ви вважаєте більш практичною?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47612,
+      "choices": [
+        {
+          "id": "Mansion",
+          "text": "особняк"
+        },
+        {
+          "id": "Basketball",
+          "text": "баскетбольна команда"
+        }
+      ],
+      "prompt": {
+        "text": "Що було б кращою інвестицією?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47622,
+      "choices": [
+        {
+          "id": "Barn",
+          "text": "в порожній коморі"
+        },
+        {
+          "id": "MovieTheater",
+          "text": "в переповненому кінотеатрі"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви більше непокоїлися?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47607,
+      "choices": [
+        {
+          "id": "Train",
+          "text": "поїзд"
+        },
+        {
+          "id": "Horse",
+          "text": "кінь"
+        }
+      ],
+      "prompt": {
+        "text": "Що було важливішим для розвитку людської цивілізації?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48008,
+      "choices": [
+        {
+          "id": "Hockey",
+          "text": "хокей"
+        },
+        {
+          "id": "Tennis",
+          "text": "теніс"
+        }
+      ],
+      "prompt": {
+        "text": "Як ви думаєте, який вид спорту потребує кращої фізичної підготовки?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47610,
+      "choices": [
+        {
+          "id": "Chinese",
+          "text": "у китайському печиві з передбаченнями"
+        },
+        {
+          "id": "Graduation",
+          "text": "у випускній промові"
+        }
+      ],
+      "prompt": {
+        "text": "Де ви зазвичай знаходите більше мудрості?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47606,
+      "choices": [
+        {
+          "id": "Graduation",
+          "text": "закінчити школу"
+        },
+        {
+          "id": "Voting",
+          "text": "проголосувати вперше"
+        }
+      ],
+      "prompt": {
+        "text": "Як складова вступу в доросле життя, що важливіше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48034,
+      "choices": [
+        {
+          "id": "Gym",
+          "text": "ходжу в тренажерний зал"
+        },
+        {
+          "id": "Salad",
+          "text": "їм салат"
+        }
+      ],
+      "prompt": {
+        "text": "Коли ви намагаєтесь бути здоровим, що ви робите частіше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47602,
+      "choices": [
+        {
+          "id": "Island",
+          "text": "відвідати острів"
+        },
+        {
+          "id": "Moving",
+          "text": "переїхати на острів"
+        }
+      ],
+      "prompt": {
+        "text": "До чого ви зараз схиляєтесь більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47704,
+      "choices": [
+        {
+          "id": "Convertible",
+          "text": "у спортивному авто"
+        },
+        {
+          "id": "Motel",
+          "text": "у дешевому мотелі"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви радше прожили місяць?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48033,
+      "choices": [
+        {
+          "id": "BubbleBath",
+          "text": "купатися в пінній ванні"
+        },
+        {
+          "id": "Bonfire",
+          "text": "сидіти поруч із теплим багаттям"
+        }
+      ],
+      "prompt": {
+        "text": "Що вам зараз здається більш привабливим?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47599,
+      "choices": [
+        {
+          "id": "Train",
+          "text": "кондуктор поїзда"
+        },
+        {
+          "id": "Motel",
+          "text": "нічний портьє в готелі"
+        }
+      ],
+      "prompt": {
+        "text": "Хто, на вашу думку, більш самотній?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47588,
+      "choices": [
+        {
+          "id": "Voting",
+          "text": "люди голосують за вас"
+        },
+        {
+          "id": "Pizza",
+          "text": "піцерія, названа вашим ім'ям"
+        }
+      ],
+      "prompt": {
+        "text": "Що було б більшою честю?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47601,
+      "choices": [
+        {
+          "id": "Salmon",
+          "text": "лосось"
+        },
+        {
+          "id": "Bear",
+          "text": "ведмідь"
+        }
+      ],
+      "prompt": {
+        "text": "За кого ви вболіваєте у документальних фільмах?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48319,
+      "choices": [
+        {
+          "id": "ShootingStar",
+          "text": "падіння зорі"
+        },
+        {
+          "id": "London",
+          "text": "королівську гвардію"
+        }
+      ],
+      "prompt": {
+        "text": "Що б ви хотіли побачити більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48031,
+      "choices": [
+        {
+          "id": "BookStore",
+          "text": "книги"
+        },
+        {
+          "id": "IceCream",
+          "text": "морозиво"
+        }
+      ],
+      "prompt": {
+        "text": "Що ви купуєте частіше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48026,
+      "choices": [
+        {
+          "id": "DMV",
+          "text": "у ЦНАПі"
+        },
+        {
+          "id": "Laundromat",
+          "text": "у пральні"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви радше провели дві години?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48305,
+      "choices": [
+        {
+          "id": "Suitcase",
+          "text": "у збиранні речей в дорогу"
+        },
+        {
+          "id": "Gym",
+          "text": "у походах в спортзал"
+        }
+      ],
+      "prompt": {
+        "text": "У чому ви гірші?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48023,
+      "choices": [
+        {
+          "id": "Kite",
+          "text": "запускати повітряного змія"
+        },
+        {
+          "id": "FeetOnBeach",
+          "text": "відпочивати на пляжі"
+        }
+      ],
+      "prompt": {
+        "text": "Як найкраще провести літній день?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48304,
+      "choices": [
+        {
+          "id": "ApplePicking",
+          "text": "збирати яблука"
+        },
+        {
+          "id": "Camping",
+          "text": "ходити в походи"
+        }
+      ],
+      "prompt": {
+        "text": "Що сумніше робити на самоті?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48020,
+      "choices": [
+        {
+          "id": "Minivan",
+          "text": "мінівен"
+        },
+        {
+          "id": "HomeRepair",
+          "text": "ремонт дому"
+        }
+      ],
+      "prompt": {
+        "text": "Що більше в \"батіному\" стилі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48019,
+      "choices": [
+        {
+          "id": "HouseParty",
+          "text": "домашня вечірка"
+        },
+        {
+          "id": "PoolParty",
+          "text": "вечірка біля басейну"
+        }
+      ],
+      "prompt": {
+        "text": "Якій вечірці ви віддали б перевагу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48017,
+      "choices": [
+        {
+          "id": "VR",
+          "text": "хтось із VR гарнітурою"
+        },
+        {
+          "id": "Segway",
+          "text": "хтось верхи на самокаті"
+        }
+      ],
+      "prompt": {
+        "text": "Хто виглядає дурніше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48014,
+      "choices": [
+        {
+          "id": "VR",
+          "text": "VR окуляри"
+        },
+        {
+          "id": "Paris",
+          "text": "відпочинок у Парижі"
+        }
+      ],
+      "prompt": {
+        "text": "На що б ви радше витратили велику суму грошей?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48013,
+      "choices": [
+        {
+          "id": "SubwayCar",
+          "text": "вагон метро"
+        },
+        {
+          "id": "BathroomStall",
+          "text": "громадський туалет"
+        }
+      ],
+      "prompt": {
+        "text": "Що зазвичай брудніше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48334,
+      "choices": [
+        {
+          "id": "EngagementRing",
+          "text": "обручка"
+        },
+        {
+          "id": "VR",
+          "text": "VR-шолом"
+        }
+      ],
+      "prompt": {
+        "text": "На що б ви радше витратили гроші?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48007,
+      "choices": [
+        {
+          "id": "Laundromat",
+          "text": "прання речей"
+        },
+        {
+          "id": "HomeRepair",
+          "text": "ремонт квартири"
+        }
+      ],
+      "prompt": {
+        "text": "Яка робота дратує більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48005,
+      "choices": [
+        {
+          "id": "Park",
+          "text": "парки"
+        },
+        {
+          "id": "Skyscraper",
+          "text": "архітектура"
+        }
+      ],
+      "prompt": {
+        "text": "Яка частина Києва прекрасніша?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48001,
+      "choices": [
+        {
+          "id": "Vegas",
+          "text": "Лас-Вегас"
+        },
+        {
+          "id": "SanFrancisco",
+          "text": "Львів"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви хотіли побувати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48000,
+      "choices": [
+        {
+          "id": "Spider",
+          "text": "павуки"
+        },
+        {
+          "id": "RollerCoaster",
+          "text": "американські гірки"
+        }
+      ],
+      "prompt": {
+        "text": "Що вас лякає більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47999,
+      "choices": [
+        {
+          "id": "Kittens",
+          "text": "кошенята"
+        },
+        {
+          "id": "Puppies",
+          "text": "цуценята"
+        }
+      ],
+      "prompt": {
+        "text": "Що миліше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47998,
+      "choices": [
+        {
+          "id": "Snake",
+          "text": "змію"
+        },
+        {
+          "id": "Pig",
+          "text": "порося"
+        }
+      ],
+      "prompt": {
+        "text": "Кого б ви радше завели як улюбленця?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48336,
+      "choices": [
+        {
+          "id": "SubwayCar",
+          "text": "метро"
+        },
+        {
+          "id": "Traffic",
+          "text": "шум"
+        }
+      ],
+      "prompt": {
+        "text": "Що найгірше в житті у великому місті?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47995,
+      "choices": [
+        {
+          "id": "Yoga",
+          "text": "зайнялися йогою"
+        },
+        {
+          "id": "ArtMuseum",
+          "text": "сходили в музей"
+        }
+      ],
+      "prompt": {
+        "text": "Що б ви радше робили у неділю?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48362,
+      "choices": [
+        {
+          "id": "Hamburger",
+          "text": "гамбургери"
+        },
+        {
+          "id": "Guacamole",
+          "text": "закуски"
+        }
+      ],
+      "prompt": {
+        "text": "Яка їжа завжди смачніша в ресторані?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47991,
+      "choices": [
+        {
+          "id": "BabyAnnouncement",
+          "text": "оголошення про вагітність"
+        },
+        {
+          "id": "EngagementRing",
+          "text": "оголошення про весілля"
+        }
+      ],
+      "prompt": {
+        "text": "Що більш захопливе?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47988,
+      "choices": [
+        {
+          "id": "Sunset",
+          "text": "перегляд заходу сонця"
+        },
+        {
+          "id": "Meditation",
+          "text": "медитація"
+        }
+      ],
+      "prompt": {
+        "text": "Що розслабляє більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48322,
+      "choices": [
+        {
+          "id": "WritingDesk",
+          "text": "свій робочий стіл"
+        },
+        {
+          "id": "CompactCar",
+          "text": "свою машину"
+        }
+      ],
+      "prompt": {
+        "text": "Що важче підтримувати у чистоті?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48106,
+      "choices": [
+        {
+          "id": "Chinese",
+          "text": "китайської"
+        },
+        {
+          "id": "Mexican",
+          "text": "мексиканської"
+        }
+      ],
+      "prompt": {
+        "text": "Страви якої кухні ви їсте частіше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48109,
+      "choices": [
+        {
+          "id": "Yoga",
+          "text": "йога"
+        },
+        {
+          "id": "Indian",
+          "text": "національна кухня"
+        }
+      ],
+      "prompt": {
+        "text": "Яка частина індійської культури вам подобається більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48110,
+      "choices": [
+        {
+          "id": "Gorilla",
+          "text": "горилу"
+        },
+        {
+          "id": "Chimpanzee",
+          "text": "шимпанзе"
+        }
+      ],
+      "prompt": {
+        "text": "Яку тварину ви б хотіли вивчати все життя?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48332,
+      "choices": [
+        {
+          "id": "Voting",
+          "text": "голосуванням"
+        },
+        {
+          "id": "HomeRepair",
+          "text": "своїм житлом"
+        }
+      ],
+      "prompt": {
+        "text": "Чим ви більше пишаєтеся?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48112,
+      "choices": [
+        {
+          "id": "BathroomStall",
+          "text": "у туалеті"
+        },
+        {
+          "id": "WritingDesk",
+          "text": "за своїм столом"
+        }
+      ],
+      "prompt": {
+        "text": "Де ви більше сидите в телефоні?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48320,
+      "choices": [
+        {
+          "id": "ParkingTicket",
+          "text": "отримання штрафу за паркування"
+        },
+        {
+          "id": "BathroomStall",
+          "text": "огидна туалетна кабінка"
+        }
+      ],
+      "prompt": {
+        "text": "Що вас більше сердить?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48120,
+      "choices": [
+        {
+          "id": "IceCream",
+          "text": "морозиво"
+        },
+        {
+          "id": "Kite",
+          "text": "запуск повітряного змія"
+        }
+      ],
+      "prompt": {
+        "text": "Що змушує вас почуватися дитиною?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48121,
+      "choices": [
+        {
+          "id": "ConcertStage",
+          "text": "на сцені"
+        },
+        {
+          "id": "Bonfire",
+          "text": "біля багаття"
+        }
+      ],
+      "prompt": {
+        "text": "Де краще розповідати історії?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48364,
+      "choices": [
+        {
+          "id": "AvocadoToast",
+          "text": "тости з авокадо"
+        },
+        {
+          "id": "FeetOnBeach",
+          "text": "фото ніг на пляжі"
+        }
+      ],
+      "prompt": {
+        "text": "Що все ще буде модним у 2040 році?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48124,
+      "choices": [
+        {
+          "id": "Russia",
+          "text": "Україна"
+        },
+        {
+          "id": "Paris",
+          "text": "Франція"
+        }
+      ],
+      "prompt": {
+        "text": "Яка країна має цікавішу історію?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48308,
+      "choices": [
+        {
+          "id": "MovieTheater",
+          "text": "бути на самоті в кінотеатрі"
+        },
+        {
+          "id": "BathroomStall",
+          "text": "бути на самоті в громадському туалеті"
+        }
+      ],
+      "prompt": {
+        "text": "Який досвід більше \"звільняє\"?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48125,
+      "choices": [
+        {
+          "id": "NewYorkCity",
+          "text": "Нью-Йорк"
+        },
+        {
+          "id": "SanFrancisco",
+          "text": "Львів"
+        }
+      ],
+      "prompt": {
+        "text": "У якому місті мости красивіші?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48126,
+      "choices": [
+        {
+          "id": "Nascar",
+          "text": "автоперегони"
+        },
+        {
+          "id": "Boxing",
+          "text": "бокс"
+        }
+      ],
+      "prompt": {
+        "text": "Що страшніше спробувати вперше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48328,
+      "choices": [
+        {
+          "id": "Meditation",
+          "text": "медитація"
+        },
+        {
+          "id": "IceCream",
+          "text": "поїсти морозива"
+        }
+      ],
+      "prompt": {
+        "text": "Як краще впоратися зі стресом?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48127,
+      "choices": [
+        {
+          "id": "Soccer",
+          "text": "дитячий футбольний матч"
+        },
+        {
+          "id": "BirthdayParty",
+          "text": "дитячий день народження"
+        }
+      ],
+      "prompt": {
+        "text": "Яка подія звучить менш привабливо?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48325,
+      "choices": [
+        {
+          "id": "BubbleBath",
+          "text": "пінна ванна"
+        },
+        {
+          "id": "RomanticGetaway",
+          "text": "пелюстки троянд"
+        }
+      ],
+      "prompt": {
+        "text": "Що романтичніше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48306,
+      "choices": [
+        {
+          "id": "Gym",
+          "text": "у спортзалі"
+        },
+        {
+          "id": "Laundromat",
+          "text": "у пральні"
+        }
+      ],
+      "prompt": {
+        "text": "Де краще зустріти свою кохану половинку?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48128,
+      "choices": [
+        {
+          "id": "Ferret",
+          "text": "тхір"
+        },
+        {
+          "id": "Rabbit",
+          "text": "кролик"
+        }
+      ],
+      "prompt": {
+        "text": "Хто переможе у цьому бою?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48129,
+      "choices": [
+        {
+          "id": "Beach",
+          "text": "на пляжі"
+        },
+        {
+          "id": "Field",
+          "text": "в полі квітів"
+        }
+      ],
+      "prompt": {
+        "text": "Де читати книгу приємніше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48326,
+      "choices": [
+        {
+          "id": "BabyAnnouncement",
+          "text": "очікування дитини"
+        },
+        {
+          "id": "EngagementRing",
+          "text": "освічення"
+        }
+      ],
+      "prompt": {
+        "text": "Яку таємницю важче зберегти?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48130,
+      "choices": [
+        {
+          "id": "ArtMuseum",
+          "text": "художній музей"
+        },
+        {
+          "id": "Museum",
+          "text": "історичний музей"
+        }
+      ],
+      "prompt": {
+        "text": "Який музей вас цікавить більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48132,
+      "choices": [
+        {
+          "id": "HotAirBalloon",
+          "text": "повітряна куля"
+        },
+        {
+          "id": "Fireworks",
+          "text": "феєрверк"
+        }
+      ],
+      "prompt": {
+        "text": "Як би ви описали свою особистість?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48331,
+      "choices": [
+        {
+          "id": "Salad",
+          "text": "салат"
+        },
+        {
+          "id": "Traffic",
+          "text": "затори"
+        }
+      ],
+      "prompt": {
+        "text": "Що більше пригнічує?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48348,
+      "choices": [
+        {
+          "id": "RomanticGetaway",
+          "text": "троянди"
+        },
+        {
+          "id": "Puppies",
+          "text": "цуценята"
+        }
+      ],
+      "prompt": {
+        "text": "Що краще пахне?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48307,
+      "choices": [
+        {
+          "id": "FeetOnBeach",
+          "text": "своїх ніг на пляжі"
+        },
+        {
+          "id": "Sunset",
+          "text": "заходу сонця"
+        }
+      ],
+      "prompt": {
+        "text": "Яку фотографію ви радше зробите у відпустці?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48133,
+      "choices": [
+        {
+          "id": "Cabin",
+          "text": "у лісовій хатинці"
+        },
+        {
+          "id": "Island",
+          "text": "на острові на самоті"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви хотіли провести тижневу відпустку?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48335,
+      "choices": [
+        {
+          "id": "Bonfire",
+          "text": "багаття"
+        },
+        {
+          "id": "HotDogs",
+          "text": "їжа"
+        }
+      ],
+      "prompt": {
+        "text": "Що найкраще в таборах?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48134,
+      "choices": [
+        {
+          "id": "Soccer",
+          "text": "футбольне поле"
+        },
+        {
+          "id": "Field",
+          "text": "поле квітів"
+        }
+      ],
+      "prompt": {
+        "text": "Якому полю ви віддаєте перевагу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48352,
+      "choices": [
+        {
+          "id": "Soccer",
+          "text": "футбольний табір"
+        },
+        {
+          "id": "Camping",
+          "text": "табір пластунів"
+        }
+      ],
+      "prompt": {
+        "text": "Який літній табір ви хотіли б відвідати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48135,
+      "choices": [
+        {
+          "id": "AvocadoToast",
+          "text": "тости з авокадо"
+        },
+        {
+          "id": "BabyAnnouncement",
+          "text": "дивні повідомлення про вагітність"
+        }
+      ],
+      "prompt": {
+        "text": "Що більше подобається міленіалам?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48324,
+      "choices": [
+        {
+          "id": "Moving",
+          "text": "купівля житла"
+        },
+        {
+          "id": "BabyAnnouncement",
+          "text": "дитина"
+        }
+      ],
+      "prompt": {
+        "text": "Що є важливішим життєвим етапом?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48136,
+      "choices": [
+        {
+          "id": "Pizza",
+          "text": "вечірка з піцою"
+        },
+        {
+          "id": "PoolParty",
+          "text": "вечірка біля басейну"
+        }
+      ],
+      "prompt": {
+        "text": "Що звучить веселіше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48346,
+      "choices": [
+        {
+          "id": "VR",
+          "text": "VR-шолом"
+        },
+        {
+          "id": "EngagementRing",
+          "text": "ювелірні прикраси"
+        }
+      ],
+      "prompt": {
+        "text": "Що є кращим подарунком?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47987,
+      "choices": [
+        {
+          "id": "HorseRace",
+          "text": "кінні перегони"
+        },
+        {
+          "id": "Nascar",
+          "text": "автоперегони"
+        }
+      ],
+      "prompt": {
+        "text": "За яким типом перегонів захопливіше спостерігати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48368,
+      "choices": [
+        {
+          "id": "Statue",
+          "text": "скульптури"
+        },
+        {
+          "id": "ArtMuseum",
+          "text": "малювання"
+        }
+      ],
+      "prompt": {
+        "text": "Яке мистецтво ви цінуєте більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47585,
+      "choices": [
+        {
+          "id": "BookStore",
+          "text": "стати власником книгарні"
+        },
+        {
+          "id": "Basketball",
+          "text": "стати тренером з баскетболу"
+        }
+      ],
+      "prompt": {
+        "text": "Що є більш вірогідною зміною життя для вас?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48363,
+      "choices": [
+        {
+          "id": "Rollerblades",
+          "text": "ролики"
+        },
+        {
+          "id": "Suitcase",
+          "text": "валізи"
+        }
+      ],
+      "prompt": {
+        "text": "Який товар ви частіше знаходите на барахолках?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48327,
+      "choices": [
+        {
+          "id": "Fireworks",
+          "text": "запуск феєрверків"
+        },
+        {
+          "id": "Ferret",
+          "text": "домашній тхір"
+        }
+      ],
+      "prompt": {
+        "text": "Що робить вас гіршим сусідом?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47581,
+      "choices": [
+        {
+          "id": "RomanticGetaway",
+          "text": "відправитись у романтичну подорож"
+        },
+        {
+          "id": "Dog",
+          "text": "завести собаку"
+        }
+      ],
+      "prompt": {
+        "text": "Який найкращий спосіб розпочати стосунки?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48317,
+      "choices": [
+        {
+          "id": "Wrestling",
+          "text": "рестлер"
+        },
+        {
+          "id": "Rollerblades",
+          "text": "дорослий на роликах"
+        }
+      ],
+      "prompt": {
+        "text": "У кого більше впевненості в собі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47578,
+      "choices": [
+        {
+          "id": "CompactCar",
+          "text": "власника компактного автомобіля"
+        },
+        {
+          "id": "Convertible",
+          "text": "власника кабріолета"
+        }
+      ],
+      "prompt": {
+        "text": "Кого ви більше поважаєте?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48359,
+      "choices": [
+        {
+          "id": "SubwayCar",
+          "text": "громадський транспорт"
+        },
+        {
+          "id": "Bicycle",
+          "text": "велосипед"
+        }
+      ],
+      "prompt": {
+        "text": "Якому виду транспорту ви віддаєте перевагу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47574,
+      "choices": [
+        {
+          "id": "Cat",
+          "text": "котами"
+        },
+        {
+          "id": "Lion",
+          "text": "левами"
+        }
+      ],
+      "prompt": {
+        "text": "Як ви думаєте, ким бачить себе більшість котів?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47570,
+      "choices": [
+        {
+          "id": "Steak",
+          "text": "після поїдання стейку"
+        },
+        {
+          "id": "Dentist",
+          "text": "перед візитом до стоматолога"
+        }
+      ],
+      "prompt": {
+        "text": "Коли люди частіше використовують зубну нитку?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48353,
+      "choices": [
+        {
+          "id": "Sunset",
+          "text": "захід сонця"
+        },
+        {
+          "id": "Forest",
+          "text": "ліс"
+        }
+      ],
+      "prompt": {
+        "text": "Що б ви радше намалювали?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48331,
+      "choices": [
+        {
+          "id": "Salad",
+          "text": "салат"
+        },
+        {
+          "id": "Traffic",
+          "text": "затори"
+        }
+      ],
+      "prompt": {
+        "text": "Що більше пригнічує?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48323,
+      "choices": [
+        {
+          "id": "Yoga",
+          "text": "зайняття йогою"
+        },
+        {
+          "id": "BubbleBath",
+          "text": "приймання ванної"
+        }
+      ],
+      "prompt": {
+        "text": "Що краще зменшує стрес?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47515,
+      "choices": [
+        {
+          "id": "CondoInterior",
+          "text": "у міській квартирі"
+        },
+        {
+          "id": "FarmHouse",
+          "text": "у сільській хатині"
+        }
+      ],
+      "prompt": {
+        "text": "Де б вам краще спалося?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48366,
+      "choices": [
+        {
+          "id": "Motel",
+          "text": "у звичайному мотелі"
+        },
+        {
+          "id": "RomanticGetaway",
+          "text": "у романтично оформленому готелі"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви радше зупинилися?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47568,
+      "choices": [
+        {
+          "id": "HotAirBalloon",
+          "text": "підйом на повітряній кулі"
+        },
+        {
+          "id": "Parade",
+          "text": "участь у параді"
+        }
+      ],
+      "prompt": {
+        "text": "Що б ви радше здійснили перед смертю?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47565,
+      "choices": [
+        {
+          "id": "Voting",
+          "text": "участь у виборах"
+        },
+        {
+          "id": "Dog",
+          "text": "прибирання за собаками"
+        }
+      ],
+      "prompt": {
+        "text": "Які людські вчинки ви б хотіли популяризувати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47562,
+      "choices": [
+        {
+          "id": "Beach",
+          "text": "на пляжі без сонцезахисного крему"
+        },
+        {
+          "id": "Rainstorm",
+          "text": "під дощем"
+        }
+      ],
+      "prompt": {
+        "text": "Де вам було б некомфортніше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48321,
+      "choices": [
+        {
+          "id": "BubbleBath",
+          "text": "у пінній ванні"
+        },
+        {
+          "id": "BathroomStall",
+          "text": "в туалетній кабінці"
+        }
+      ],
+      "prompt": {
+        "text": "Де краще плакати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48344,
+      "choices": [
+        {
+          "id": "Cat",
+          "text": "у кішку"
+        },
+        {
+          "id": "Moose",
+          "text": "у лося"
+        }
+      ],
+      "prompt": {
+        "text": "У кого б ви хотіли перевтілитися?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48356,
+      "choices": [
+        {
+          "id": "Yoga",
+          "text": "інструктор з йоги"
+        },
+        {
+          "id": "Cat",
+          "text": "кішка"
+        }
+      ],
+      "prompt": {
+        "text": "Хто гнучкіший?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48318,
+      "choices": [
+        {
+          "id": "Moose",
+          "text": "лось"
+        },
+        {
+          "id": "Ferret",
+          "text": "тхір"
+        }
+      ],
+      "prompt": {
+        "text": "Яка тварина величніша?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47722,
+      "choices": [
+        {
+          "id": "Wedding",
+          "text": "на весілля"
+        },
+        {
+          "id": "CondoInterior",
+          "text": "на іпотеку"
+        }
+      ],
+      "prompt": {
+        "text": "На що б ви радше витратили гроші?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47738,
+      "choices": [
+        {
+          "id": "SemiTruck",
+          "text": "у фуру"
+        },
+        {
+          "id": "Gorilla",
+          "text": "у горилу"
+        }
+      ],
+      "prompt": {
+        "text": "У що з цього було б крутіше перетворюватися роботу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48360,
+      "choices": [
+        {
+          "id": "HotAirBalloon",
+          "text": "з повітряної кулі"
+        },
+        {
+          "id": "Skyscraper",
+          "text": "з вершини хмарочоса"
+        }
+      ],
+      "prompt": {
+        "text": "Звідки у вас був би кращий вид?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47706,
+      "choices": [
+        {
+          "id": "Dentist",
+          "text": "похід до стоматолога"
+        },
+        {
+          "id": "Airplane",
+          "text": "політ"
+        }
+      ],
+      "prompt": {
+        "text": "Що з цього тривожить вас більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47730,
+      "choices": [
+        {
+          "id": "Elephant",
+          "text": "документальний фільм про слонів"
+        },
+        {
+          "id": "Wedding",
+          "text": "реаліті-шоу про весілля"
+        }
+      ],
+      "prompt": {
+        "text": "Яке телешоу ви б радше подивилися?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48550,
+      "choices": [
+        {
+          "id": "Bat",
+          "text": "кажана"
+        },
+        {
+          "id": "SubwayCar",
+          "text": "маршрутку"
+        }
+      ],
+      "prompt": {
+        "text": "Що з цього важче зловити?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48551,
+      "choices": [
+        {
+          "id": "Snake",
+          "text": "власник домашньої змії"
+        },
+        {
+          "id": "Pig",
+          "text": "власник домашньої свині"
+        }
+      ],
+      "prompt": {
+        "text": "Хто вас лякає більше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48552,
+      "choices": [
+        {
+          "id": "Pig",
+          "text": "фільми про поросят"
+        },
+        {
+          "id": "Goldfish",
+          "text": "фільми про рибок"
+        }
+      ],
+      "prompt": {
+        "text": "З історичної точки зору, яке дитяче кіно краще?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48553,
+      "choices": [
+        {
+          "id": "PostOffice",
+          "text": "поштові відділення"
+        },
+        {
+          "id": "DMV",
+          "text": "ЦНАП"
+        }
+      ],
+      "prompt": {
+        "text": "Чого ви більше уникаєте?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48554,
+      "choices": [
+        {
+          "id": "Jungle",
+          "text": "Амазонія"
+        },
+        {
+          "id": "Igloo",
+          "text": "Антарктида"
+        }
+      ],
+      "prompt": {
+        "text": "Де б ви могли вижити довше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48555,
+      "choices": [
+        {
+          "id": "Barn",
+          "text": "хлів"
+        },
+        {
+          "id": "PickupTruck",
+          "text": "пікап"
+        }
+      ],
+      "prompt": {
+        "text": "Що може бути кращим сховком під час повстання зомбі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48556,
+      "choices": [
+        {
+          "id": "MeatSkewer",
+          "text": "шашлики"
+        },
+        {
+          "id": "Guacamole",
+          "text": "соус до мʼяса"
+        }
+      ],
+      "prompt": {
+        "text": "Що легше зробити?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48557,
+      "choices": [
+        {
+          "id": "Desert",
+          "text": "Пісок"
+        },
+        {
+          "id": "Kite",
+          "text": "Повітря"
+        }
+      ],
+      "prompt": {
+        "text": "Яка стихія сильніша?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48558,
+      "choices": [
+        {
+          "id": "Parade",
+          "text": "парад"
+        },
+        {
+          "id": "Nascar",
+          "text": "автоперегони"
+        }
+      ],
+      "prompt": {
+        "text": "Що людям цікавіше дивитися?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48559,
+      "choices": [
+        {
+          "id": "MeatSkewer",
+          "text": "кебаби"
+        },
+        {
+          "id": "Gyro",
+          "text": "чібереки"
+        }
+      ],
+      "prompt": {
+        "text": "Яка вулична страва смачніша?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48560,
+      "choices": [
+        {
+          "id": "Volleyball",
+          "text": "правила гри у волейбол"
+        },
+        {
+          "id": "Hockey",
+          "text": "правила гри у хокей"
+        }
+      ],
+      "prompt": {
+        "text": "У чому ви більше шарите?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48561,
+      "choices": [
+        {
+          "id": "Kittens",
+          "text": "ігри з кошенятами"
+        },
+        {
+          "id": "Sailboat",
+          "text": "плавання на яхті"
+        }
+      ],
+      "prompt": {
+        "text": "Що вам зараз здається більш привабливим?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48562,
+      "choices": [
+        {
+          "id": "Bear",
+          "text": "ведмідь"
+        },
+        {
+          "id": "Giraffe",
+          "text": "жираф"
+        }
+      ],
+      "prompt": {
+        "text": "Яка тварина у зоопарку сумніша?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48563,
+      "choices": [
+        {
+          "id": "Jeep",
+          "text": "позашляховик"
+        },
+        {
+          "id": "CompactCar",
+          "text": "енергоощадливий автомобіль"
+        }
+      ],
+      "prompt": {
+        "text": "Який автомобіль більше відповідає вашому характеру?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48564,
+      "choices": [
+        {
+          "id": "London",
+          "text": "вишукані ресторани Лондона"
+        },
+        {
+          "id": "GasStation",
+          "text": "їжа на АЗС"
+        }
+      ],
+      "prompt": {
+        "text": "Що більше у вашому стилі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48565,
+      "choices": [
+        {
+          "id": "Mansion",
+          "text": "маєток у глушині"
+        },
+        {
+          "id": "NewYorkCity",
+          "text": "маленьку квартиру у Нью-Йорку"
+        }
+      ],
+      "prompt": {
+        "text": "Що б ви хотіли мати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48566,
+      "choices": [
+        {
+          "id": "WritingDesk",
+          "text": "написати роман"
+        },
+        {
+          "id": "Russia",
+          "text": "зробити Київ без заторів"
+        }
+      ],
+      "prompt": {
+        "text": "Що звучить складніше?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48567,
+      "choices": [
+        {
+          "id": "HouseParty",
+          "text": "піти на вечірку"
+        },
+        {
+          "id": "Cat",
+          "text": "залишитися з котом"
+        }
+      ],
+      "prompt": {
+        "text": "Що більше у вашому стилі?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48568,
+      "choices": [
+        {
+          "id": "Sailboat",
+          "text": "екскурсію на човнах"
+        },
+        {
+          "id": "Segway",
+          "text": "екскурсію на електросамокатах"
+        }
+      ],
+      "prompt": {
+        "text": "Що б ви обрали, відвідуючи нове місто?"
+      }
+    }
+  ]
+}

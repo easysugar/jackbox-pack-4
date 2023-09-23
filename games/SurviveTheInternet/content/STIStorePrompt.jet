@@ -1,0 +1,1629 @@
+{
+  "episodeid": 1314,
+  "content": [
+    {
+      "decoys": [
+        {
+          "text": "М'яке. Здоровенне. Пружне.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43997,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть три слова про своє ліжко."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона була наповнена чудовими друзями.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43994,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свої роки в середній школі."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона м'яка та тривка.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44409,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд сорочки, в яку ви одягнені."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона дуже пошарпана. Мені потрібна нова.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44151,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть невеличкий огляд вашої зубної щітки."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Чарівне, крихітне та миле.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43727,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть відгук на своє рідне місто трьома словами."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Цей фільм був таким чудовим, що аж змусив мене заридати.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48385,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд останнього переглянутого фільму."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Старий, затишний та гарний.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44408,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть відгук на свій дім дитинства трьома словами."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він дуже великий і милий.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47240,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд на свій телевізор."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона дуже потужна!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47171,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд вашої мікрохвильовки."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він був капець яким гучним.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48545,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть ваш останній пук."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Там була одна щаслива горила!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48387,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть останнє YouTube-відео, яке ви дивилися."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Більшість чудові, але деякі не дуже.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44165,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про виноград?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Доволі непоганий сценарій. Дуже переконливо.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48386,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд телесеріалу, який ви дивилися."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Я їм їх лише тому, що вони наколоті.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45069,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про апельсини?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "В ній можна купатися, а можна ховатися.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45070,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд ванни."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "З нею я виглядаю шикарно!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 45623,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий відгук про свою останню стрижку."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ми чудово провели час з родиною!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43995,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд вашої останньої відпустки."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Сподобався, але, на жаль, кіт його на шмаття порвав.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47243,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть свій диван."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "В ній було багато таємниць та напруги. Нереально відірватися!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47167,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд останньої книги, яку ви прочитали."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він робить все, що мені потрібно!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47241,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд свого телефону."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Хотілося б, щоб напір води був сильнішим!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47239,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд своєї душової лійки."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Маленький, але потужний.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47242,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть невеличкий огляд свого комп'ютера."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він робить мене ЖИВИМ!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47143,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про Живчик?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Зелена, поживна і смачна.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48392,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть огляд капусти з трьох слів."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Абдул довіз мене з вітерцем!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47131,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий відгук про свою останню поїздку в таксі."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Така солона та прикольна",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47811,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд картоплі-фрі з Макдональда."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Кава холодна, як моє серце.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 47822,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий відгук про АромаКаву."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Це було жахливо. Всюди був туалетний папір.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48549,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд туалету, яким ви користувалися востаннє."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони завжди заплутуються, і це мене бісить.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48377,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд своїх навушників."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Нормально. Було і гірше.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48547,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть коротко, як пройшов ваш день."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Пхе. Яйця були не свіжі.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48546,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд останньої страви, яку ви їли."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він величезний і повний чудових атракціонів.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49263,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть коротко ваш улюблений парк розваг."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Дуже зручна та комфортна.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48378,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд білизни, яку ви зараз носите."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Норм. Сохне не дуже швидко.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48380,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд свого килимка для ванної кімнати."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він повний батьків.",
+          "type": "Positive"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 44978,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть коротко натовп на останньому концерті, на якому ви були."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Непогано, але дверцята часом заклинює.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48381,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд на свій холодильник."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Завжди смачно!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48393,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд нагетсів у МакДональдз."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Завжди ходжу какати.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49270,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд на Пузату Хату."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона довга та нудна.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48510,
+      "choices": [],
+      "prompt": {
+        "text": "Як виглядає ваша щоденна поїздка?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Абсолютно безглуздо.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49265,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд на Маккофе 3в1."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Для мене він занадто гіркий.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49266,
+      "choices": [],
+      "prompt": {
+        "text": "Що ви думаєте про зелений чай?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Ніколи не використовуйте його! НІКОЛИ!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48382,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитеся до одношарового туалетного паперу?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Дорого, але того варте.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48479,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд продукції Apple."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вони найкращі.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49269,
+      "choices": [],
+      "prompt": {
+        "text": "Як ви ставитесь до продукції Android?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він великий і розкішний.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49257,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть будинок своєї мрії."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він був мокрим і безладним.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48509,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть ваш перший поцілунок."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона стара і м'яка.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49264,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть вашу улюблену футболку."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Він брудний і смердючий.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43985,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали типовий нічний клуб?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Тут є все!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48478,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд про Розетку."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "У ньому були лебеді з рушників.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48532,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий відгук про останній готель, у якому ви зупинялися."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Велика і повна дітлахів.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49267,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть останню школу, яку ви відвідували."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Тут повно добрих людей.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49268,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть своє останнє місце роботи."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Коротке, веселе, виснажливе",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 49259,
+      "choices": [],
+      "prompt": {
+        "text": "Опишіть минуле літо трьома словами."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Виглядає не дуже, зате зручно!",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48477,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд на ваше крісло."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Гарно смакує до шашлику.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48476,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий огляд про Кока-колу."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Вона була маленька і повна іграшок.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48496,
+      "choices": [],
+      "prompt": {
+        "text": "Коротко опишіть вашу дитячу спальню."
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Усюди безлад.",
+          "type": "Negative"
+        },
+        {
+          "text": "Повний безлад.",
+          "type": "Negative"
+        },
+        {
+          "text": "Якийсь безлад.",
+          "type": "Negative"
+        },
+        {
+          "text": "Просто безлад.",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 43919,
+      "choices": [],
+      "prompt": {
+        "text": "Як би ви описали стан вашої кімнати?"
+      }
+    },
+    {
+      "decoys": [
+        {
+          "text": "Багато закусок і було весело.",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        },
+        {
+          "text": "",
+          "type": "Negative"
+        }
+      ],
+      "prefix": {
+        "text": ""
+      },
+      "id": 48548,
+      "choices": [],
+      "prompt": {
+        "text": "Напишіть короткий відгук про останню вечірку, на якій ви були."
+      }
+    }
+  ]
+}

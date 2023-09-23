@@ -1,0 +1,712 @@
+{
+  "episodeid": "STITwists0000",
+  "content": [
+    {
+      "id": "News000",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "Місцевий чоловік впустив свій ріжок з морозивом"
+    },
+    {
+      "id": "News001",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "Монах іде на пенсію"
+    },
+    {
+      "id": "News002",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "Терміново: більшість собак є уті-путі хорошими песиками"
+    },
+    {
+      "id": "News003",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "Заступник замісника мера відкриває туалет у центрі міста"
+    },
+    {
+      "id": "News004",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "Інстаграмні відео, які змусять вас вдарити гопака"
+    },
+    {
+      "id": "News005",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "Артистка показала свої принади на відкритті карнавалу"
+    },
+    {
+      "id": "News006",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "Місцева їдальня б'є рекорд"
+    },
+    {
+      "id": "News007",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "У ці вихідні очікується великий шторм"
+    },
+    {
+      "id": "News008",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "Ярмарок фермерів представить двох абразивних гедлайнерів"
+    },
+    {
+      "id": "News009",
+      "applicableThemes": [
+        "News"
+      ],
+      "text": "ФК Карпати виграє Кубок чемпіонів"
+    },
+    {
+      "id": "Video000",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Соло на тромбоні"
+    },
+    {
+      "id": "Video001",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Моє прекрасне дитя"
+    },
+    {
+      "id": "Video002",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Мій племінник задуває свічки до Дня народження"
+    },
+    {
+      "id": "Video003",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Різдвяний ранок із сім'єю!"
+    },
+    {
+      "id": "Video004",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Фортепіанний концерт моєї доньки "
+    },
+    {
+      "id": "Video005",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Неймовірний трюк на самокаті дивитися всім"
+    },
+    {
+      "id": "Video006",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Комічна церковна проповідь ТАЧ!"
+    },
+    {
+      "id": "Video007",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Як зробити знамениті бабусині пиріжки"
+    },
+    {
+      "id": "Video008",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Пародія на Gangnam Style"
+    },
+    {
+      "id": "Video009",
+      "applicableThemes": [
+        "Video"
+      ],
+      "text": "Підбірка магічних трюків"
+    },
+    {
+      "id": "Store000",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "Зубочистки, 2 метри"
+    },
+    {
+      "id": "Store001",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "Білі кросівки"
+    },
+    {
+      "id": "Store002",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "Острозьке Євангеліє"
+    },
+    {
+      "id": "Store003",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "12 пар житомирських шкарпеток "
+    },
+    {
+      "id": "Store004",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "Джинсові шорти"
+    },
+    {
+      "id": "Store005",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "Кошичок з рогози"
+    },
+    {
+      "id": "Store006",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "Злий Репер Зеник альбом CD"
+    },
+    {
+      "id": "Store007",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "Велика упаковка солоних крекерів"
+    },
+    {
+      "id": "Store008",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "Плакат із Русланою Лижичко"
+    },
+    {
+      "id": "Store009",
+      "applicableThemes": [
+        "Store"
+      ],
+      "text": "Шкіряна барсетка"
+    },
+    {
+      "id": "FriendFeed000",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "Дай вам, Боже, доброї години й щастя на ниві! "
+    },
+    {
+      "id": "FriendFeed001",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "Дякую за усі привітання з днем народження!"
+    },
+    {
+      "id": "FriendFeed002",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "Я чудово провів час зі своїми онуками."
+    },
+    {
+      "id": "FriendFeed003",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "Хтось може порадити хорошу службу доставки?"
+    },
+    {
+      "id": "FriendFeed004",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "У мене найкраща дружина у світі. На цьому все."
+    },
+    {
+      "id": "FriendFeed005",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "Що ви думаєте про нову кіноадаптацію коміксів Марвел?"
+    },
+    {
+      "id": "FriendFeed006",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "У мене був справді важкий день."
+    },
+    {
+      "id": "FriendFeed007",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "Люди, які займаються у залі: у вас є поради щодо тренувань?"
+    },
+    {
+      "id": "FriendFeed008",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "Яка цитата вас надихає?"
+    },
+    {
+      "id": "FriendFeed009",
+      "applicableThemes": [
+        "FriendFeed"
+      ],
+      "text": "Я щойно завантажив свої нові картини. Що ви думаєте, шановні?"
+    },
+    {
+      "id": "Chirp000",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#теронліфанс"
+    },
+    {
+      "id": "Chirp001",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#ЗаМакіївськеДжерельце"
+    },
+    {
+      "id": "Chirp002",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#ШановнийПерепрошую"
+    },
+    {
+      "id": "Chirp003",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#IStandWithUkraine"
+    },
+    {
+      "id": "Chirp004",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#ПершіСловаМоєїДитини"
+    },
+    {
+      "id": "Chirp005",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#МоскалякуНаГілляку"
+    },
+    {
+      "id": "Chirp006",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#ПідслуханоВАеропорту"
+    },
+    {
+      "id": "Chirp007",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#УкраїнськаЛокалізація"
+    },
+    {
+      "id": "Chirp008",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#ФільмиДляДорослих"
+    },
+    {
+      "id": "Chirp009",
+      "applicableThemes": [
+        "Chirp"
+      ],
+      "text": "#ЦільніЗлаки"
+    },
+    {
+      "id": "CrowdFund000",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Будівництво нового молодіжного центру"
+    },
+    {
+      "id": "CrowdFund001",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Чистий комедійний клуб"
+    },
+    {
+      "id": "CrowdFund002",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Запис душевного альбому"
+    },
+    {
+      "id": "CrowdFund003",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Дуже високий органайзер для CD"
+    },
+    {
+      "id": "CrowdFund004",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Проповідницька поїздка на Гаїті "
+    },
+    {
+      "id": "CrowdFund005",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Дуже товсті рукавички"
+    },
+    {
+      "id": "CrowdFund006",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Нова мікроброварня"
+    },
+    {
+      "id": "CrowdFund007",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Подкаст про пінгвінів"
+    },
+    {
+      "id": "CrowdFund008",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Поставте мій мюзикл"
+    },
+    {
+      "id": "CrowdFund009",
+      "applicableThemes": [
+        "CrowdFund"
+      ],
+      "text": "Абсолютно новий тип крекера"
+    },
+    {
+      "id": "CheckIn000",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Церква"
+    },
+    {
+      "id": "CheckIn001",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Спільнота пенсіонерів"
+    },
+    {
+      "id": "CheckIn002",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Укравтодор"
+    },
+    {
+      "id": "CheckIn003",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Їдальня"
+    },
+    {
+      "id": "CheckIn004",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Музей природознавства "
+    },
+    {
+      "id": "CheckIn005",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Ейфелева вежа"
+    },
+    {
+      "id": "CheckIn006",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Говерла"
+    },
+    {
+      "id": "CheckIn007",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Статуя Шевченка"
+    },
+    {
+      "id": "CheckIn008",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Клуб джентльменів"
+    },
+    {
+      "id": "CheckIn009",
+      "applicableThemes": [
+        "CheckIn"
+      ],
+      "text": "Контактний зоопарк"
+    },
+    {
+      "id": "Recommend000",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Сатана"
+    },
+    {
+      "id": "Recommend001",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Сергій Притула"
+    },
+    {
+      "id": "Recommend002",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Дарт Вейдер"
+    },
+    {
+      "id": "Recommend003",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Леся з Леся+Рома"
+    },
+    {
+      "id": "Recommend004",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Степан Гіга"
+    },
+    {
+      "id": "Recommend005",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Волдеморт"
+    },
+    {
+      "id": "Recommend006",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Дмитро Комаров"
+    },
+    {
+      "id": "Recommend007",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Доктор Комаровський"
+    },
+    {
+      "id": "Recommend008",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Ектор Хіменес-Браво"
+    },
+    {
+      "id": "Recommend009",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Піца La П'єц"
+    },
+    {
+      "id": "Recommend010",
+      "applicableThemes": [
+        "Recommend"
+      ],
+      "text": "Мама Чубакки"
+    },
+    {
+      "id": "Forum000",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Які ваші поради щодо побачень? "
+    },
+    {
+      "id": "Forum001",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Що собі думають поляки?"
+    },
+    {
+      "id": "Forum002",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Як ви сьогодні почуваєтеся?"
+    },
+    {
+      "id": "Forum003",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Що ви останнє сказали на сповіді?"
+    },
+    {
+      "id": "Forum004",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Який пароль до вашої електронної скриньки?"
+    },
+    {
+      "id": "Forum005",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Яким гаслом ви надихаєтесь по життю?"
+    },
+    {
+      "id": "Forum006",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Що означає ваше тату?"
+    },
+    {
+      "id": "Forum007",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Який девіз вашого рідного міста?"
+    },
+    {
+      "id": "Forum008",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Якби ви могли сказати лише одне, що б це було? "
+    },
+    {
+      "id": "Forum009",
+      "applicableThemes": [
+        "Forum"
+      ],
+      "text": "Яку пораду дав вам ваш дідусь?"
+    },
+    {
+      "id": "Photo000",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "Я обожнюю своє життя!"
+    },
+    {
+      "id": "Photo001",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "Звичайний вівторок."
+    },
+    {
+      "id": "Photo002",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "Мій офіс на сьогодні."
+    },
+    {
+      "id": "Photo003",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "Таки заздриш?"
+    },
+    {
+      "id": "Photo004",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "Моя нова пара у Tinder."
+    },
+    {
+      "id": "Photo005",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "Мій поточний настрій."
+    },
+    {
+      "id": "Photo006",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "Це приклад для мого нового тату."
+    },
+    {
+      "id": "Photo007",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "Прошу, допоможіть."
+    },
+    {
+      "id": "Photo008",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "Сьогодні чудовий день для весілля."
+    },
+    {
+      "id": "Photo009",
+      "applicableThemes": [
+        "Photo"
+      ],
+      "text": "І я пішов менш протоптаною дорогою."
+    }
+  ]
+}
